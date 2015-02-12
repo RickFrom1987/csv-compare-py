@@ -4,12 +4,14 @@ import re
 import pprint
 import os.path
 
-source_file = csv.DictReader(open(os.path.dirname(__file__) + "/../csv/woo-cancel-test.csv"))
+source_name = "woo-cancel-test.csv"
+source_file = csv.DictReader(open(os.path.dirname(__file__) + "/../csv-input/" + source_name))
 source_order_numbers = []
 source_dupes = []
 source_dict = {}
 
-comparator_file = csv.DictReader(open(os.path.dirname(__file__) + "/../csv/xero-1-15.csv"))
+comparator_name = "xero-1-15.csv"
+comparator_file = csv.DictReader(open(os.path.dirname(__file__) + "/../csv-input/" + comparator_name))
 comparator_order_numbers = []
 comparator_dupes = []
 comparator_dict = {}
@@ -65,12 +67,15 @@ def find_source_order_in_comparator():
   return
 
 def write_to_csv():
-  keys = exists_in_source_and_in_comparator[0].keys()
-  with open(os.path.dirname(__file__) + '/../csv/included.csv', 'wb') as output_file:
-      dict_writer = csv.DictWriter(output_file, keys)
-      dict_writer.writeheader()
-      dict_writer.writerows(exists_in_source_and_in_comparator)
-      print os.path.basename(__file__) + ".csv generated"
+  if len(exists_in_source_and_in_comparator) > 0:
+    keys = exists_in_source_and_in_comparator[0].keys()
+    with open(os.path.dirname(__file__) + '/../csv-output/included.csv', 'wb') as output_file:
+        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(exists_in_source_and_in_comparator)
+        print os.path.basename(__file__) + ".csv generated"
+  else:
+    print "No results to write to csv"
   return
 
 def main():

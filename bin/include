@@ -5,6 +5,6 @@ import os.path
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from lib.compare import Compare
 
-compare = Compare('woo-all-1-15.csv', 'xero-1-15.csv', 'include')
+compare = Compare('woo-cancel-10-14.csv', 'xero-10-14.csv', 'include')
 compare.setup()
 compare.write_to_csv()

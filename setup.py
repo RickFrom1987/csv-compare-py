@@ -14,7 +14,7 @@ config = {
     'install_requires': ['nose'],
     'packages': ['csv-compare-py'],
     'scripts': [],
-    'name': 'projectname'
+    'name': 'CSV Compare'
 }
 
 setup(**config)

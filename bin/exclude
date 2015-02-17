@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+import sys
+import os.path
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from lib.compare import Compare
+
+compare = Compare('woo-all-1-15.csv', 'xero-1-15.csv', 'exclude')
+compare.setup()
+compare.write_to_csv()

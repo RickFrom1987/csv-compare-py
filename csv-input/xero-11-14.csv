@@ -1,0 +1,1155 @@
+Invoice Number,Reference,Type,To,Date,Due Date,Expected Date,Paid Date,Invoice Total,Paid,Due,,Sent,Status
+7589,M-0314-00143,INV,Philip Killian,11/30/2014,11/30/2014,,12/1/2014,$159.98,$159.98,$0.00,,Unsent,Paid
+7596,M-0314-00248,INV,Philipp Thomas,11/30/2014,11/30/2014,,12/1/2014,$123.00,$123.00,$0.00,,Unsent,Paid
+7593,M-0514-00477,INV,Fitness Hardware,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7626,M-0514-00516,INV,Gary Cohen,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7608,M-0614-00842,INV,Eugene Kim,11/30/2014,11/30/2014,,12/1/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7573,M-0614-00958,INV,Marcos RogŽrio,11/30/2014,11/30/2014,,12/1/2014,$20.00,$20.00,$0.00,,Unsent,Paid
+7562,M-0714-01115,INV,Donat Pletukhov,11/30/2014,11/30/2014,,11/30/2014,$104.99,$104.99,$0.00,,Unsent,Paid
+6836,M-0714-01321,INV,Gary Granville,11/11/2014,11/11/2014,,11/12/2014,$69.00,$69.00,$0.00,,Unsent,Paid
+7604,M-0714-01525,INV,Matt Coyne,11/30/2014,11/30/2014,,12/1/2014,$123.00,$123.00,$0.00,,Unsent,Paid
+7611,M-0714-01747,INV,Kamil Abdulberov,11/30/2014,11/30/2014,,12/1/2014,$69.00,$69.00,$0.00,,Unsent,Paid
+7609,M-0714-01947,INV,Sean Engel,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7615,M-0714-02232,INV,Ben Sensing,11/30/2014,11/30/2014,,12/1/2014,$89.99,$89.99,$0.00,,Unsent,Paid
+7602,M-0814-02389,INV,audrey louchart,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7595,M-0814-02516,INV,Tim Hughes,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7601,M-0814-02659,INV,Anthony Shafer,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7610,M-0814-02682,INV,Joe Shapiro,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7588,M-0814-02970,INV,Loupe System,11/30/2014,11/30/2014,,12/1/2014,$123.00,$123.00,$0.00,,Unsent,Paid
+7628,M-0814-03352,INV,Robert Heinrich,11/30/2014,11/30/2014,,12/1/2014,$123.00,$123.00,$0.00,,Unsent,Paid
+7566,M-0814-03405,INV,Matt Schneider,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7612,M-0814-03596,INV,Andrew Fenchel,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7567,M-0814-03812,INV,Denis Popov,11/30/2014,11/30/2014,,12/1/2014,$123.00,$123.00,$0.00,,Unsent,Paid
+7590,M-0814-04299,INV,Kolya S,11/30/2014,11/30/2014,,12/1/2014,$69.00,$69.00,$0.00,,Unsent,Paid
+7563,M-0814-04300,INV,Anders KŠhkšnen,11/30/2014,11/30/2014,,11/30/2014,$123.00,$123.00,$0.00,,Unsent,Paid
+7598,M-0814-0444,INV,Greg Barnett,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+6696,M-0814-04488,INV,Rob Way,11/3/2014,11/3/2014,,11/3/2014,$69.00,$69.00,$0.00,,Unsent,Paid
+7607,M-0814-04875,INV,Rubeun Tan,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7564,M-0814-05024,INV,Vimal Kaul,11/30/2014,11/30/2014,,11/30/2014,$69.00,$69.00,$0.00,,Unsent,Paid
+7627,M-0814-05092,INV,Edward Santos,11/30/2014,11/30/2014,,12/1/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+7561,M-0814-05108,INV,Grace Wallerstedt,11/30/2014,11/30/2014,,11/30/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7603,M-0814-05123,INV,Andre Neumann-Loreck,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7575,M-0814-05232,INV,Yasuhiro Iizuka,11/30/2014,11/30/2014,,12/1/2014,$69.00,$69.00,$0.00,,Unsent,Paid
+7600,M-0814-05350,INV,Brendan Malone,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7568,M-0814-05401,INV,Claus Moberg,11/30/2014,11/30/2014,,12/1/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+7594,M-0814-05463,INV,LEA TOMPSETT,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7597,M-0814-05465,INV,Jake Levine,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7592,M-0814-05518,INV,Benton Erwin,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7606,M-0914-05558,INV,Adi Rapp,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7599,M-0914-05606,INV,Jonathan Sadowski,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7614,M-0914-05673,INV,Steve Isaac,11/30/2014,11/30/2014,,12/1/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+6693,M-0914-05763,INV,Samir Dave,11/3/2014,11/3/2014,,11/3/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+7051,M-0914-06280,INV,Robert Gaynor,11/21/2014,11/21/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7565,M-0914-06451,INV,Tristan Asencio,11/30/2014,11/30/2014,,12/1/2014,$19.99,$19.99,$0.00,,Unsent,Paid
+7605,M-0914-06469,INV,Joao Uchoa,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7569,M-1014-06866,INV,Shahz Khatri,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7576,M-1014-07151,INV,bronya Shillo,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7572,M-1014-07197,INV,Yousuf alshamsi,11/30/2014,11/30/2014,,12/1/2014,$159.97,$159.97,$0.00,,Unsent,Paid
+7574,M-1014-07203,INV,Town Planning.& Survey,11/30/2014,11/30/2014,,12/1/2014,$306.56,$306.56,$0.00,,Unsent,Paid
+6563,Moment - FREE-101,INV,Andy Baron,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6554,Moment - FREE-102,INV,Conrad Anker,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6533,Moment - FREE-104,INV,Tim Kemple,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6536,Moment - FREE-105,INV,Ann Kim,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6556,Moment - FREE-107,INV,Jon Willey,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7629,Moment - FREE-108,INV,Hernan Sanchez,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6680,Moment - FREE-112,INV,Fred Rodriguez,11/3/2014,11/3/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6655,Moment - FREE-113,INV,Max Larsson,11/3/2014,11/3/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7631,Moment - FREE-115,INV,KRAMER KLABAU,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7630,Moment - FREE-116,INV,Elizabeth Walsh,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6620,Moment - FREE-117,INV,Henry Romano,11/3/2014,11/3/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6619,Moment - FREE-118,INV,Henry Romano,11/3/2014,11/3/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6875,Moment - FREE-154,INV,Nate Nash,11/17/2014,11/17/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7577,Moment - FREE-158,INV,Christian Rodriquez,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6913,Moment - FREE-160,INV,Adam Elmakias,11/18/2014,11/18/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6908,Moment - FREE-160,INV,Adam Elmakias,11/18/2014,11/18/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6932,Moment - FREE-161,INV,Adam Elmakias,11/18/2014,11/18/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6914,Moment - FREE-161,INV,Adam Elmakias,11/18/2014,11/18/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6949,Moment - FREE-162,INV,Fiona Moriarty,11/18/2014,11/18/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6942,Moment - FREE-163,INV,Brian Foxcroft,11/18/2014,11/18/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6952,Moment - FREE-165,INV,zachreedprod@gmail.com,11/19/2014,11/19/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6975,Moment - FREE-166,INV,Ruairidh McGlynn,11/19/2014,11/19/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6987,Moment - FREE-167,INV,Michael Overbeck,11/19/2014,11/19/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6994,Moment - FREE-168,INV,Michael Lee,11/19/2014,11/19/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6988,Moment - FREE-170,INV,Karen Poole,11/19/2014,11/19/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7543,Moment - FREE-171,INV,Nina Johnson,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7542,Moment - FREE-173,INV,Nicole Nguyen,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7541,Moment - FREE-174,INV,Lesley Kennedy,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7540,Moment - FREE-175,INV,Sean Captain,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7539,Moment - FREE-176,INV,Lisa Bettany,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7021,Moment - FREE-177,INV,Influencer,11/20/2014,11/20/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7537,Moment - FREE-178,INV,Influencer,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7002,Moment - FREE-179,INV,Rebecca Miller,11/20/2014,11/20/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7535,Moment - FREE-180,INV,David Dikeman,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7017,Moment - FREE-181,INV,McKenzie Barney,11/20/2014,11/20/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7019,Moment - FREE-182,INV,mark chester goking,11/20/2014,11/20/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7022,Moment - FREE-183,INV,Kellie D-Amato,11/21/2014,11/21/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7533,Moment - FREE-184,INV,KOMO News,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7057,Moment - FREE-186,INV,Ryan Haggart,11/22/2014,11/22/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7061,Moment - FREE-188,INV,Matthew Jensen,11/22/2014,11/22/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7525,Moment - FREE-190,INV,Buzzfeed,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7132,Moment - FREE-192,INV,Esquire,11/25/2014,11/25/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7524,Moment - FREE-193,INV,AMF Optics,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7521,Moment - FREE-196,INV,Nancy Truong,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7520,Moment - FREE-197,INV,Angel Gonzalez,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7515,Moment - FREE-198,INV,TechCrunch,11/30/2014,11/30/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+7169,Moment - FREE-199,INV,Alexander May,11/26/2014,11/26/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6835,Moment - FREE-6,INV,Keri Airudin,11/11/2014,11/11/2014,,11/11/2014,$224.98,$224.98,$0.00,,Unsent,Paid
+6704,Moment - FREE-71,INV,Michael Seydel,11/3/2014,11/3/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6666,Moment - FREE-83,INV,BGM International,11/3/2014,11/3/2014,,11/12/2014,$39.96,$39.96,$0.00,,Unsent,Paid
+6538,Moment - FREE-94,INV,Max Larsson,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6560,Moment - FREE-95,INV,McKenzie Barney,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6564,Moment - FREE-98,INV,Briana Maxson,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6565,Moment - FREE-99,INV,Lexi Zozuya,11/2/2014,11/2/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6834,Moment - M-0314-00128,INV,Research Animal Facility-1,11/4/2014,11/4/2014,,11/4/2014,$249.95,$249.95,$0.00,,Unsent,Paid
+6523,Moment - M-0414-00455,INV,Rainer Stober,11/2/2014,11/2/2014,,11/3/2014,$123.00,$123.00,$0.00,,Unsent,Paid
+6695,Moment - M-0714-01183-2,INV,Dana Campbell,11/3/2014,11/3/2014,,11/3/2014,$49.00,$49.00,$0.00,,Unsent,Paid
+6832,Moment - M-0814-04097,INV,Peter Smith,11/4/2014,11/4/2014,,11/4/2014,$114.98,$114.98,$0.00,,Unsent,Paid
+6831,Moment - M-0914-05708,INV,Robert Windsor,11/4/2014,11/4/2014,,11/4/2014,$69.98,$69.98,$0.00,,Unsent,Paid
+6829,Moment - M-0914-05708,INV,Robert Windsor,11/4/2014,11/4/2014,,11/4/2014,$69.98,$69.98,$0.00,,Unsent,Paid
+6830,Moment - M-0914-05722,INV,Tom Pollard,11/4/2014,11/4/2014,,11/4/2014,$64.99,$64.99,$0.00,,Unsent,Paid
+6828,Moment - M-0914-05973,INV,QUEK ZUOLING,11/4/2014,11/4/2014,,11/4/2014,$294.96,$294.96,$0.00,,Unsent,Paid
+6585,Moment - M-0914-06040,INV,NA,11/2/2014,11/2/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6823,Moment - M-0914-06043,INV,Cheuk Kit Leung,11/4/2014,11/4/2014,,11/4/2014,$24.99,$24.99,$0.00,,Unsent,Paid
+6824,Moment - M-0914-06048,INV,Makerz,11/4/2014,11/4/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6675,Moment - M-0914-06053,INV,Johann Jakob Miller,11/3/2014,11/3/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6645,Moment - M-0914-06057,INV,Jeremy Slama,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6691,Moment - M-0914-06060,INV,Michael Aguilar,11/3/2014,11/3/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7560,Moment - M-0914-06071,INV,stephen hernandez,11/30/2014,11/30/2014,,11/30/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6664,Moment - M-0914-06075,INV,9elements GmbH,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6621,Moment - M-0914-06078,INV,Jason Emery,11/3/2014,11/3/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6591,Moment - M-0914-06094,INV,Damian Tan,11/2/2014,11/2/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6756,Moment - M-0914-06098,INV,Sieto van der Heide,11/3/2014,11/3/2014,,11/12/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6670,Moment - M-0914-06105,INV,Soeren Keilig,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6588,Moment - M-0914-06114,INV,Wee Nghee Ng,11/2/2014,11/2/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6694,Moment - M-0914-06116,INV,Farzad Bakhtiar,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6750,Moment - M-0914-06127,INV,Jonathan Lai,11/3/2014,11/3/2014,,11/12/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7661,Moment - M-0914-06133,INV,Bryan Ramos,11/30/2014,11/30/2014,,12/1/2014,$24.98,$24.98,$0.00,,Unsent,Paid
+6789,Moment - M-0914-06136,INV,Morgan Jones,11/4/2014,11/4/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6799,Moment - M-0914-06145,INV,Danny Policarpo,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6815,Moment - M-0914-06150,INV,Timur Andryushkin,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6787,Moment - M-0914-06157,INV,Amro Gebreel,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6795,Moment - M-0914-06160,INV,Joshua Murray,11/4/2014,11/4/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6811,Moment - M-0914-06161,INV,Gabriel Fehr,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6791,Moment - M-0914-06169,INV,Benny McLaughlin,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6760,Moment - M-0914-06181,INV,Jesper Solbakken,11/3/2014,11/3/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6817,Moment - M-0914-06189,INV,www.sergeykomlev.com,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6631,Moment - M-0914-06192,INV,Ukeme Umana,11/3/2014,11/3/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6663,Moment - M-0914-06193,INV,The Munich Appsters,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7658,Moment - M-0914-06194,INV,Katie Nelson,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7657,Moment - M-0914-06195,INV,Kyle Sziraki,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7660,Moment - M-0914-06197,INV,Neil Talangbayan,11/30/2014,11/30/2014,,12/1/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7659,Moment - M-0914-06199,INV,Greg Arment,11/30/2014,11/30/2014,,12/1/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6786,Moment - M-0914-06202,INV,Charlie Francis,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6776,Moment - M-0914-06204,INV,Richard Billington,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7665,Moment - M-0914-06206,INV,Mr.Misfits,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7666,Moment - M-0914-06207,INV,Anik Shrestha,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7668,Moment - M-0914-06208,INV,Melissa Morris,11/30/2014,11/30/2014,,12/1/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6639,Moment - M-0914-06209,INV,Julien LavallŽe,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7670,Moment - M-0914-06210,INV,Edward Buitenwert,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7669,Moment - M-0914-06211,INV,Micah Ulrick,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7671,Moment - M-0914-06212,INV,Kellyn Alayu,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7672,Moment - M-0914-06216,INV,Sean Hamilton,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7673,Moment - M-0914-06219,INV,Kyle Ford,11/30/2014,11/30/2014,,12/1/2014,$15.32,$15.32,$0.00,,Unsent,Paid
+6687,Moment - M-0914-06221,INV,Graham Yerbury,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7674,Moment - M-0914-06222,INV,Robie Sullins,11/30/2014,11/30/2014,,12/1/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7675,Moment - M-0914-06224,INV,Kent Nishimura,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7676,Moment - M-0914-06227,INV,Luis de Freitas,11/30/2014,11/30/2014,,12/1/2014,$26.47,$26.47,$0.00,,Unsent,Paid
+7678,Moment - M-0914-06228,INV,Tony Leung,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7679,Moment - M-0914-06229,INV,Daryn Nakhuda,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7677,Moment - M-0914-06230,INV,Elad Ossadon,11/30/2014,11/30/2014,,12/1/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7680,Moment - M-0914-06231,INV,James Fee,11/30/2014,11/30/2014,,12/1/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7681,Moment - M-0914-06233,INV,Alex Walker,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7682,Moment - M-0914-06234,INV,Bart Drogon,11/30/2014,11/30/2014,,12/1/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7683,Moment - M-0914-06236,INV,Chris Dirige,11/30/2014,11/30/2014,,12/1/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6743,Moment - M-0914-06237,INV,Jeremy Goaziou,11/3/2014,11/3/2014,,11/12/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+7684,Moment - M-0914-06239,INV,Alex Rosas,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7685,Moment - M-0914-06240,INV,JiroBot,11/30/2014,11/30/2014,,12/1/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7662,Moment - M-0914-06241,INV,Frank Chi,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7664,Moment - M-0914-06242,INV,Craig McCasland,11/30/2014,11/30/2014,,12/1/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7663,Moment - M-0914-06244,INV,Anthony Kindelt,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6792,Moment - M-0914-06246,INV,Jason Millar,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7686,Moment - M-0914-06247,INV,Ian Sherr,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6738,Moment - M-0914-06248,INV,Kazunari Watanabe,11/3/2014,11/3/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6608,Moment - M-0914-06249,INV,Chantho Phouisangiem,11/2/2014,11/2/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7687,Moment - M-0914-06250,INV,Allen Nancarrow,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7688,Moment - M-0914-06251,INV,Justin Kosmides,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6604,Moment - M-0914-06252,INV,Marcus Lee-Steere,11/2/2014,11/2/2014,,11/12/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6624,Moment - M-0914-06253,INV,William Ng,11/3/2014,11/3/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7690,Moment - M-0914-06254,INV,SherreŽ Rogers,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6640,Moment - M-0914-06255,INV,Olivier Morel,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6679,Moment - M-0914-06256,INV,Steven Tan,11/3/2014,11/3/2014,,11/12/2014,$29.98,$29.98,$0.00,,Unsent,Paid
+7691,Moment - M-0914-06259,INV,Buenaventura Hormazabal,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6581,Moment - M-0914-06260,INV,Daryl Elliott,11/2/2014,11/2/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6607,Moment - M-0914-06261,INV,Allan Moult,11/2/2014,11/2/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6719,Moment - M-0914-06262,INV,spasso+,11/3/2014,11/3/2014,,11/3/2014,$33.97,$33.97,$0.00,,Unsent,Paid
+7694,Moment - M-0914-06265,INV,Charles Ling,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6576,Moment - M-0914-06267,INV,Yassir Yahya,11/2/2014,11/2/2014,,11/3/2014,$24.98,$24.98,$0.00,,Unsent,Paid
+7695,Moment - M-0914-06271,INV,Z Obradovic,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6813,Moment - M-0914-06274,INV,Dudu Pontes,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6727,Moment - M-0914-06275,INV,Katsuyuki Ohno,11/3/2014,11/3/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6725,Moment - M-0914-06276,INV,Shinji Kusuki,11/3/2014,11/3/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7050,Moment - M-0914-06280,INV,Robert Gaynor,11/22/2014,11/22/2014,,,$0.00,$0.00,$0.00,,Unsent,Paid
+6724,Moment - M-0914-06285,INV,KDDI Webcommunications,11/3/2014,11/3/2014,,11/4/2014,$69.93,$69.93,$0.00,,Unsent,Paid
+6582,Moment - M-0914-06291,INV,Warren Goh,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6825,Moment - M-0914-06294,INV,Sia Partners,11/4/2014,11/4/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6673,Moment - M-0914-06297,INV,Lars Menzel,11/3/2014,11/3/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6826,Moment - M-0914-06301,INV,Lance Chiu,11/4/2014,11/4/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6596,Moment - M-0914-06302,INV,Limin Hsu,11/2/2014,11/2/2014,,11/12/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6785,Moment - M-0914-06305,INV,John Edwards,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6659,Moment - M-0914-06309,INV,Norman Tonnelier,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6676,Moment - M-0914-06311,INV,Jan Muenster,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6600,Moment - M-0914-06315,INV,Antonios Bouris,11/2/2014,11/2/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6814,Moment - M-0914-06328,INV,Karol Wiazewicz,11/4/2014,11/4/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6628,Moment - M-0914-06329,INV,Michael Schmidt,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6593,Moment - M-0914-06339,INV,Clement Zhang,11/2/2014,11/2/2014,,11/3/2014,$24.98,$24.98,$0.00,,Unsent,Paid
+10210,Moment - M-0914-06353,INV,Keith Robinson,11/11/2014,11/11/2014,,11/11/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6746,Moment - M-0914-06354,INV,Stuart Frisby,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6630,Moment - M-0914-06357,INV,Ryan Sutherland,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6633,Moment - M-0914-06361,INV,JIALE YU,11/3/2014,11/3/2014,,11/3/2014,$19.98,$19.98,$0.00,,Unsent,Paid
+6708,Moment - M-0914-06362,INV,Maximilian Stauder,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6766,Moment - M-0914-06364,INV,Vicent Lopez,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6807,Moment - M-0914-06368,INV,Aaron Stezycki,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6662,Moment - M-0914-06373,INV,Cabinet dentaire,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6610,Moment - M-0914-06375,INV,Helen Rawlinson,11/2/2014,11/2/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6626,Moment - M-0914-06401,INV,Andy Reed,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6681,Moment - M-0914-06402,INV,Jonny Tanoto,11/3/2014,11/3/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6603,Moment - M-0914-06403,INV,Alastair Hills,11/2/2014,11/2/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6757,Moment - M-0914-06408,INV,Roland D Vreugdenburg,11/3/2014,11/3/2014,,11/12/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6739,Moment - M-0914-06415,INV,Yousuke Watanabe,11/3/2014,11/3/2014,,11/4/2014,$29.98,$29.98,$0.00,,Unsent,Paid
+6700,Moment - M-0914-06416,INV,Marcus Schlaak,11/3/2014,11/3/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6771,Moment - M-0914-06418,INV,Guy Dickinson,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+10658,Moment - M-0914-06419,INV,TAM Consulting,11/9/2014,11/9/2014,,11/9/2014,$14.98,$14.98,$0.00,,Unsent,Paid
+6761,Moment - M-0914-06422,INV,Conor Keoghan,11/3/2014,11/3/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6749,Moment - M-0914-06423,INV,Robin Gruyters,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6584,Moment - M-0914-06426,INV,Shirley Lai,11/2/2014,11/2/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6697,Moment - M-0914-06428,INV,Brikk & Brakk Tradeworks,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6644,Moment - M-0914-06434,INV,Robert Ramin,11/3/2014,11/3/2014,,11/3/2014,$7.49,$7.49,$0.00,,Unsent,Paid
+6781,Moment - M-0914-06435,INV,Feisty Tangerine Ltd,11/4/2014,11/4/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6827,Moment - M-0914-06440,INV,Fu Chuen Chow,11/4/2014,11/4/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6669,Moment - M-0914-06443,INV,Tim James,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6636,Moment - M-0914-06448,INV,Kim Hjortholm,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6632,Moment - M-0914-06452,INV,David Wood,11/3/2014,11/3/2014,,11/3/2014,$19.98,$19.98,$0.00,,Unsent,Paid
+6729,Moment - M-0914-06461,INV,Keita Sasaki,11/3/2014,11/3/2014,,11/4/2014,$29.98,$29.98,$0.00,,Unsent,Paid
+6810,Moment - M-0914-06464,INV,Zadkiel Yeo,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6616,Moment - M-0914-06465,INV,Michael Campbell,11/3/2014,11/3/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6730,Moment - M-0914-06468,INV,Akira Sekine,11/3/2014,11/3/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6570,Moment - M-0914-06472,INV,Mike Lai,11/2/2014,11/2/2014,,11/3/2014,$32.47,$32.47,$0.00,,Unsent,Paid
+6755,Moment - M-0914-06477,INV,Jan van de Venis,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6578,Moment - M-0914-06483,INV,Kace Chang,11/2/2014,11/2/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6735,Moment - M-0914-06486,INV,Shunpei Tojo,11/3/2014,11/3/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6742,Moment - M-0914-06493,INV,____,11/3/2014,11/3/2014,,11/12/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6573,Moment - M-0914-06495,INV,Halina Kaja Mydin,11/2/2014,11/2/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6590,Moment - M-0914-06496,INV,Gideon Sng,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6769,Moment - M-0914-06505,INV,Johan Skold,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6587,Moment - M-0914-06506,INV,Raymond Loh,11/2/2014,11/2/2014,,11/3/2014,$33.97,$33.97,$0.00,,Unsent,Paid
+6783,Moment - M-0914-06509,INV,Mark Doughty,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6635,Moment - M-0914-06511,INV,Mikael Hansen,11/3/2014,11/3/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6754,Moment - M-0914-06512,INV,Mingism BV,11/3/2014,11/3/2014,,11/12/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6805,Moment - M-0914-06515,INV,Noble Union,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6667,Moment - M-0914-06519,INV,Frank Dyllick-Brenzinger,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6622,Moment - M-0914-06529,INV,Francois Lachapelle,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6747,Moment - M-0914-06535,INV,Albert de Vos,11/3/2014,11/3/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6779,Moment - M-0914-06536,INV,Martyn Bromley,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6803,Moment - M-0914-06543,INV,Matt Sandrini,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6592,Moment - M-0914-06555,INV,Weiyang Wong,11/2/2014,11/2/2014,,11/3/2014,$26.47,$26.47,$0.00,,Unsent,Paid
+6723,Moment - M-0914-06558,INV,Hideaki Kiko,11/3/2014,11/3/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6788,Moment - M-0914-06560,INV,Chris Heritage,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6818,Moment - M-0914-06562,INV,Alex Osutin,11/4/2014,11/4/2014,,11/4/2014,$59.94,$59.94,$0.00,,Unsent,Paid
+6615,Moment - M-0914-06574,INV,Jean-Stefane Bergeron,11/2/2014,11/2/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6736,Moment - M-0914-06575,INV,Hidenori Tomiyama,11/3/2014,11/3/2014,,11/4/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6717,Moment - M-0914-06576,INV,Toshio Hatanaka,11/3/2014,11/3/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6734,Moment - M-0914-06577,INV,378A,11/3/2014,11/3/2014,,11/4/2014,$19.98,$19.98,$0.00,,Unsent,Paid
+6819,Moment - M-0914-06585,INV,Aleksandr Sergeevich Ragozin,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6611,Moment - M-0914-06599,INV,Wynter Seton Associates,11/2/2014,11/2/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6758,Moment - M-1014-06630,INV,Steve Ford,11/3/2014,11/3/2014,,11/12/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6722,Moment - M-1014-06636,INV,Kazuhiro Asai,11/3/2014,11/3/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6638,Moment - M-1014-06643,INV,Serraz christophe,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6778,Moment - M-1014-06644,INV,Paul Bradbury,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6770,Moment - M-1014-06645,INV,Michele Catasta,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6809,Moment - M-1014-06647,INV,Rob Way,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6774,Moment - M-1014-06651,INV,Don Moraes,11/4/2014,11/4/2014,,11/4/2014,$24.98,$24.98,$0.00,,Unsent,Paid
+6801,Moment - M-1014-06652,INV,Ram Rasaratnam,11/4/2014,11/4/2014,,11/4/2014,$24.98,$24.98,$0.00,,Unsent,Paid
+6721,Moment - M-1014-06674,INV,Takashi Nohara,11/3/2014,11/3/2014,,11/4/2014,$33.97,$33.97,$0.00,,Unsent,Paid
+6637,Moment - M-1014-06677,INV,LIONEL BƒRENGER,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6641,Moment - M-1014-06678,INV,Frederic Muglia,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6775,Moment - M-1014-06679,INV,Shahzad Arif,11/4/2014,11/4/2014,,11/4/2014,$29.98,$29.98,$0.00,,Unsent,Paid
+6709,Moment - M-1014-06681,INV,Markus Stolz,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6577,Moment - M-1014-06709,INV,mark chester goking,11/2/2014,11/2/2014,,11/3/2014,$7.49,$7.49,$0.00,,Unsent,Paid
+6752,Moment - M-1014-06712,INV,Jan-Willem Rekveld,11/3/2014,11/3/2014,,11/12/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6753,Moment - M-1014-06713,INV,Phillip Smits,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6710,Moment - M-1014-06714,INV,Tsang Cho Yee Louis,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6715,Moment - M-1014-06717,INV,Tadatsugu Fujino,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6580,Moment - M-1014-06718,INV,Kwong Sheng Chong,11/2/2014,11/2/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6617,Moment - M-1014-06736,INV,Jean-Francois Duquette,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6718,Moment - M-1014-06740,INV,Mitsuru Higa,11/3/2014,11/3/2014,,11/3/2014,$7.49,$7.49,$0.00,,Unsent,Paid
+6714,Moment - M-1014-06741,INV,Takuma Fujii,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6678,Moment - M-1014-06743,INV,Rolf Neuser,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6583,Moment - M-1014-06744,INV,Hong Cai Guo,11/2/2014,11/2/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6816,Moment - M-1014-06747,INV,ilya Bykovsky,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7656,Moment - M-1014-06748-1,INV,Stephen Romano,11/30/2014,11/30/2014,,12/1/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6713,Moment - M-1014-06757,INV,Dominique Chen,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6720,Moment - M-1014-06762,INV,ryuichi katsura,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6726,Moment - M-1014-06774,INV,Shigeru Matsuyama,11/3/2014,11/3/2014,,11/4/2014,$39.96,$39.96,$0.00,,Unsent,Paid
+6733,Moment - M-1014-06775,INV,Nobuo Takahashi,11/3/2014,11/3/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6728,Moment - M-1014-06778,INV,AKIHIRO SASAKI,11/3/2014,11/3/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6605,Moment - M-1014-06780,INV,Andrew McNutt,11/2/2014,11/2/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6706,Moment - M-1014-06781,INV,Harold Li,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6674,Moment - M-1014-06783,INV,Andreas Mielcarek,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6833,Moment - M-1014-06794,INV,Patricia Swartz,11/4/2014,11/4/2014,,11/4/2014,$89.98,$89.98,$0.00,,Unsent,Paid
+6762,Moment - M-1014-06795,INV,Kevan McColgan,11/4/2014,11/4/2014,,11/4/2014,$14.98,$14.98,$0.00,,Unsent,Paid
+6732,Moment - M-1014-06802,INV,____________n,11/3/2014,11/3/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6599,Moment - M-1014-06803,INV,Jonathan Tseng,11/2/2014,11/2/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6782,Moment - M-1014-06805,INV,Mark Connell,11/4/2014,11/4/2014,,11/4/2014,$14.98,$14.98,$0.00,,Unsent,Paid
+6705,Moment - M-1014-06807,INV,OMA,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6572,Moment - M-1014-06813,INV,Herman Widodo,11/2/2014,11/2/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6780,Moment - M-1014-06818,INV,Doug Cain,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6748,Moment - M-1014-06829,INV,Maarten de Vries,11/3/2014,11/3/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6571,Moment - M-1014-06830,INV,Priyanshu Jain,11/2/2014,11/2/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6796,Moment - M-1014-06840,INV,Kevin Page,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6712,Moment - M-1014-06852,INV,Mario De Santis,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6737,Moment - M-1014-06853,INV,kohei tsuchida,11/3/2014,11/3/2014,,11/4/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6703,Moment - M-1014-06854,INV,Michele De Silvestro,11/3/2014,11/3/2014,,11/3/2014,$14.98,$14.98,$0.00,,Unsent,Paid
+6612,Moment - M-1014-06867,INV,Samuel Tan Jun Wei,11/2/2014,11/2/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6745,Moment - M-1014-06868,INV,Jonas Galhordas Duarte Alves,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6711,Moment - M-1014-06882,INV,Gianluca Borchia,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6609,Moment - M-1014-06884,INV,Muhammad Iqbal Qaseem,11/2/2014,11/2/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6602,Moment - M-1014-06888,INV,Rowan Gillson,11/2/2014,11/2/2014,,11/12/2014,$7.49,$7.49,$0.00,,Unsent,Paid
+6623,Moment - M-1014-06889,INV,Levi McCarroll,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6741,Moment - M-1014-06895,INV,Yoshiki Yasui,11/3/2014,11/3/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6569,Moment - M-1014-06896,INV,Jordan Law,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6699,Moment - M-1014-06899,INV,Markus SchŠrtel,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6800,Moment - M-1014-06900,INV,Tom Pollard,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6595,Moment - M-1014-06901,INV,CHEN HUNG LIANG,11/2/2014,11/2/2014,,11/12/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6784,Moment - M-1014-06902,INV,Chris East,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6777,Moment - M-1014-06920,INV,Paul Blakeman,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6598,Moment - M-1014-06927,INV,"Lai Fu Trading Co., Ltd.",11/2/2014,11/2/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6594,Moment - M-1014-06930,INV,Young Yune,11/2/2014,11/2/2014,,11/12/2014,$39.96,$39.96,$0.00,,Unsent,Paid
+6798,Moment - M-1014-06931,INV,Ed Payne,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6579,Moment - M-1014-06944,INV,Han-Leon Chia,11/2/2014,11/2/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6701,Moment - M-1014-06948,INV,mede design ltd.,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6629,Moment - M-1014-06958,INV,Mario Spina,11/3/2014,11/3/2014,,11/3/2014,$29.98,$29.98,$0.00,,Unsent,Paid
+6812,Moment - M-1014-06960,INV,JON PIL LEE,11/4/2014,11/4/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6765,Moment - M-1014-06984,INV,Mediter Europe SL,11/4/2014,11/4/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6586,Moment - M-1014-06989,INV,Steven Lim,11/2/2014,11/2/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6613,Moment - M-1014-07000,INV,Teresa Anderson,11/2/2014,11/2/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6764,Moment - M-1014-07044,INV,Aidan O Sullivan,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6589,Moment - M-1014-07059,INV,Edmund Seah,11/2/2014,11/2/2014,,11/3/2014,$24.98,$24.98,$0.00,,Unsent,Paid
+6634,Moment - M-1014-07060,INV,Mads Bernhardt Jensen,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6806,Moment - M-1014-07065,INV,Andy Sneesby,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6740,Moment - M-1014-07066,INV,Asaka Yamamoto,11/3/2014,11/3/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6751,Moment - M-1014-07071,INV,Peter Lammertzen,11/3/2014,11/3/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6625,Moment - M-1014-07075,INV,Alex Putici,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6671,Moment - M-1014-07082,INV,Danny Krull,11/3/2014,11/3/2014,,11/3/2014,$39.97,$39.97,$0.00,,Unsent,Paid
+6793,Moment - M-1014-07090,INV,Mark Mobbs,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6618,Moment - M-1014-07101,INV,Darryl Dyck,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6702,Moment - M-1014-07108,INV,Tom Schlander,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6759,Moment - M-1014-07130,INV,¯ren Utvikling AS,11/3/2014,11/3/2014,,11/12/2014,$26.47,$26.47,$0.00,,Unsent,Paid
+6772,Moment - M-1014-07134,INV,Oscar Merlo,11/4/2014,11/4/2014,,11/12/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6773,Moment - M-1014-07145,INV,Imran Farouk,11/4/2014,11/4/2014,,11/4/2014,$32.47,$32.47,$0.00,,Unsent,Paid
+6768,Moment - M-1014-07148,INV,Tobias Lind,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6601,Moment - M-1014-07149,INV,calvin cadrix,11/2/2014,11/2/2014,,11/12/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6731,Moment - M-1014-07152,INV,Takeshi Suzuki,11/3/2014,11/3/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6820,Moment - M-1014-07170,INV,Vojtech Picha,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6575,Moment - M-1014-07185,INV,Bernard Wong,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6690,Moment - M-1014-07204,INV,Andreas Nuss,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6767,Moment - M-1014-07209,INV,Parakey,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6627,Moment - M-1014-07217,INV,Poolhouse,11/3/2014,11/3/2014,,11/3/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6808,Moment - M-1014-07229,INV,Thijs van der Wai,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6802,Moment - M-1014-07231,INV,Sam Salek,11/4/2014,11/4/2014,,11/4/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6574,Moment - M-1014-07232,INV,Izzat Sulaiman,11/2/2014,11/2/2014,,11/3/2014,$14.98,$14.98,$0.00,,Unsent,Paid
+6763,Moment - M-1014-07234,INV,Glen Mulcahy,11/4/2014,11/4/2014,,11/4/2014,$19.98,$19.98,$0.00,,Unsent,Paid
+6606,Moment - M-1014-07250,INV,Shiv Nandwani,11/2/2014,11/2/2014,,11/12/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6668,Moment - M-1014-07252,INV,Leonhard Fuerg,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6716,Moment - M-1014-07257,INV,masakazu furukawa,11/3/2014,11/3/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6614,Moment - M-1014-07262,INV,Bryan Bennion,11/2/2014,11/2/2014,,11/12/2014,$7.49,$7.49,$0.00,,Unsent,Paid
+6744,Moment - M-1014-07266,INV,Everardo Partida,11/3/2014,11/3/2014,,11/12/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6804,Moment - M-1014-07272,INV,LFSGD,11/4/2014,11/4/2014,,11/12/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6790,Moment - M-1014-07275,INV,Katya Kaidanovska,11/4/2014,11/4/2014,,11/4/2014,$9.99,$9.99,$0.00,,Unsent,Paid
+6597,Moment - M-1014-07276,INV,Michael Sun,11/2/2014,11/2/2014,,11/12/2014,$33.97,$33.97,$0.00,,Unsent,Paid
+6521,Moment - M-1014-07285,INV,Stephanie Howell,11/2/2014,11/2/2014,,11/3/2014,$129.97,$129.97,$0.00,,Unsent,Paid
+6557,Moment - M-1014-07292,INV,Christine Arboleda,11/2/2014,11/2/2014,,11/3/2014,$115.21,$115.21,$0.00,,Unsent,Paid
+6546,Moment - M-1014-07293,INV,Victor Patton,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6528,Moment - M-1014-07296,INV,Kevin Spencer,11/2/2014,11/2/2014,,11/3/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+6539,Moment - M-1014-07298,INV,Christina Ko,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6544,Moment - M-1014-07302,INV,Mourad Chennaoui,11/2/2014,11/2/2014,,11/3/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+6547,Moment - M-1014-07303,INV,John Leon-Guerrero,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6550,Moment - M-1014-07305,INV,Amanda Cancel,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6821,Moment - M-1014-07309,INV,Lance Chiu,11/4/2014,11/4/2014,,11/4/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6559,Moment - M-1014-07310,INV,Maidy Louie Wright,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6534,Moment - M-1014-07311,INV,Lara Teeple,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6540,Moment - M-1014-07312,INV,Calvin Ting,11/2/2014,11/2/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6529,Moment - M-1014-07317,INV,takeshi masawaki,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6568,Moment - M-1014-07319,INV,Daniel Apatin,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6527,Moment - M-1014-07321,INV,Jillian Hulings,11/2/2014,11/2/2014,,11/3/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+6552,Moment - M-1014-07322,INV,Matthew Liszt,11/2/2014,11/2/2014,,11/3/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6543,Moment - M-1014-07323,INV,Andrew Trister,11/2/2014,11/2/2014,,11/3/2014,$98.00,$98.00,$0.00,,Unsent,Paid
+6520,Moment - M-1014-07324,INV,Joscha Griger,11/2/2014,11/2/2014,,11/3/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+6555,Moment - M-1014-07325,INV,Jesse MacDonald,11/2/2014,11/2/2014,,11/3/2014,$130.42,$130.42,$0.00,,Unsent,Paid
+6535,Moment - M-1014-07326,INV,Remigijus Stirbys,11/2/2014,11/2/2014,,11/3/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+6545,Moment - M-1014-07329,INV,BRIAN LATORRE,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6562,Moment - M-1014-07330,INV,John Yee,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6537,Moment - M-1014-07331,INV,esther teodoro,11/2/2014,11/2/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6522,Moment - M-1014-07332,INV,Elliot Silvers,11/2/2014,11/2/2014,,11/3/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+6524,Moment - M-1014-07335,INV,Deal Hudson,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6525,Moment - M-1014-07337,INV,Mary Jo Sminkey,11/2/2014,11/2/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6561,Moment - M-1014-07338,INV,Janet Marlborough,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6558,Moment - M-1014-07339,INV,Paul Maisel,11/2/2014,11/2/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6530,Moment - M-1014-07344,INV,Diane Keller,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6549,Moment - M-1014-07348,INV,Mark Levin,11/2/2014,11/2/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6541,Moment - M-1014-07354,INV,Hamid alzarouni,11/2/2014,11/2/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6532,Moment - M-1014-07356,INV,Gaudioso Sareno,11/2/2014,11/2/2014,,11/3/2014,$289.96,$289.96,$0.00,,Unsent,Paid
+6526,Moment - M-1014-07358,INV,Paolo Chiti,11/2/2014,11/2/2014,,11/3/2014,$47.48,$47.48,$0.00,,Unsent,Paid
+6548,Moment - M-1014-07360,INV,Robert Van Dusen,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6551,Moment - M-1014-07364,INV,Syed Junaid Ahmed,11/2/2014,11/2/2014,,11/3/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6531,Moment - M-1014-07365,INV,Ronald Sprouse,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6822,Moment - M-1014-07366,INV,Elaine Au,11/4/2014,11/4/2014,,11/4/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6566,Moment - M-1014-07367,INV,Luke Beard,11/2/2014,11/2/2014,,11/3/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6553,Moment - M-1014-07368,INV,Michael West,11/2/2014,11/2/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6542,Moment - M-1014-07371,INV,NJIT,11/2/2014,11/2/2014,,11/3/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+6658,Moment - M-1014-07376,INV,KOJI SEO,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6651,Moment - M-1014-07377,INV,Kevin Ihle,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6689,Moment - M-1014-07378,INV,Dale Sorensen,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6649,Moment - M-1014-07379,INV,SHAUN WU,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6654,Moment - M-1014-07380,INV,ian Hewitt-Woods,11/3/2014,11/3/2014,,11/3/2014,$131.38,$131.38,$0.00,,Unsent,Paid
+6650,Moment - M-1014-07381,INV,BUSINESS ACCOUNT,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6692,Moment - M-1014-07382,INV,Tom Palmer,11/3/2014,11/3/2014,,11/3/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6643,Moment - M-1014-07383,INV,Dominic Fong,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6657,Moment - M-1014-07384,INV,Stan Fiskin,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6652,Moment - M-1014-07385,INV,YURI CATANIA SA,11/3/2014,11/3/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6642,Moment - M-1014-07386,INV,Wai Shan Tse,11/3/2014,11/3/2014,,11/3/2014,$159.97,$159.97,$0.00,,Unsent,Paid
+6647,Moment - M-1014-07387,INV,Mark Call,11/3/2014,11/3/2014,,11/3/2014,$229.93,$229.93,$0.00,,Unsent,Paid
+6665,Moment - M-1014-07388,INV,PaoloBonacinaPhotographer,11/3/2014,11/3/2014,,11/3/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6677,Moment - M-1014-07389,INV,Greg Clayman,11/3/2014,11/3/2014,,11/3/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6656,Moment - M-1014-07390,INV,Quin Shakra,11/3/2014,11/3/2014,,11/3/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+6683,Moment - M-1014-07391,INV,Cody Pride,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6660,Moment - M-1014-07392,INV,beth SAUM,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6648,Moment - M-1014-07393,INV,Saina Kamula,11/3/2014,11/3/2014,,11/3/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+6646,Moment - M-1014-07394,INV,Ian Penny,11/3/2014,11/3/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6661,Moment - M-1014-07395,INV,Giuseppe Cerruti,11/3/2014,11/3/2014,,11/3/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6653,Moment - M-1014-07396,INV,Kara Small,11/3/2014,11/3/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6686,Moment - M-1014-07398,INV,Yvette Cardozo,11/3/2014,11/3/2014,,11/3/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+6688,Moment - M-1014-07399,INV,Donna Russ,11/3/2014,11/3/2014,,11/3/2014,$89.98,$89.98,$0.00,,Unsent,Paid
+6685,Moment - M-1014-07399,INV,Donna Russ,11/3/2014,11/3/2014,,11/3/2014,$89.98,$89.98,$0.00,,Unsent,Paid
+6672,Moment - M-1014-07399,INV,Donna Russ,11/3/2014,11/3/2014,,11/3/2014,$89.98,$89.98,$0.00,,Unsent,Paid
+6707,Moment - M-1014-07400,INV,Genevieve Biron,11/3/2014,11/3/2014,,11/3/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7633,Moment - M-1114-07444,INV,Grace Christian School,11/30/2014,11/30/2014,,12/1/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7635,Moment - M-1114-07446,INV,DMG Video,11/30/2014,11/30/2014,,12/1/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+7634,Moment - M-1114-07447,INV,Janet Forsyth,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7636,Moment - M-1114-07448,INV,Paul Landry,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7637,Moment - M-1114-07449,INV,Brandon Pacheco,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7638,Moment - M-1114-07453,INV,Louise Tranter,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7639,Moment - M-1114-07454,INV,Joachim Lapiak,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7640,Moment - M-1114-07455,INV,Gregory Schmigel,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7641,Moment - M-1114-07456,INV,Myrthe Geelen,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7642,Moment - M-1114-07457,INV,Jonathan Cioffi,11/30/2014,11/30/2014,,12/1/2014,$80.99,$80.99,$0.00,,Unsent,Paid
+7645,Moment - M-1114-07458,INV,Jay Tufte,11/30/2014,11/30/2014,,12/1/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7644,Moment - M-1114-07459,INV,Tim Goodacre,11/30/2014,11/30/2014,,12/1/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7651,Moment - M-1114-07460,INV,Ian Myles,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7650,Moment - M-1114-07461,INV,Cullen Cantwell,11/30/2014,11/30/2014,,12/1/2014,$15.07,$15.07,$0.00,,Unsent,Paid
+7648,Moment - M-1114-07462,INV,Maxwell Hathaway,11/30/2014,11/30/2014,,12/1/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7653,Moment - M-1114-07463,INV,Kenneth Leffler,11/30/2014,11/30/2014,,12/1/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7654,Moment - M-1114-07464,INV,Albert Kim,11/30/2014,11/30/2014,,12/1/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7643,Moment - M-1114-07465,INV,Chris Wingfield,11/30/2014,11/30/2014,,12/1/2014,$115.21,$115.21,$0.00,,Unsent,Paid
+7649,Moment - M-1114-07466,INV,Phil Toronto,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7647,Moment - M-1114-07467,INV,Jana Trantow,11/30/2014,11/30/2014,,12/1/2014,$39.97,$39.97,$0.00,,Unsent,Paid
+7655,Moment - M-1114-07469,INV,james gartner,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7652,Moment - M-1114-07471,INV,Udayanga Heeralu Pathiranage,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7591,Moment - M-1114-07546,INV,N/A,11/30/2014,11/30/2014,,12/1/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+6900,Moment - M-1114-07579,INV,Town Planning.& Survey,11/18/2014,11/18/2014,,11/18/2014,$289.96,$289.96,$0.00,,Unsent,Paid
+6880,Moment - M-1114-07641,INV,Ann Brown,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6877,Moment - M-1114-07643,INV,Peter de Tolly,11/17/2014,11/17/2014,,11/17/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+6876,Moment - M-1114-07646,INV,Chung Ho Wong,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6878,Moment - M-1114-07648,INV,Chloe Seagondollar,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6879,Moment - M-1114-07655,INV,Parb Johal,11/17/2014,11/17/2014,,11/17/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6887,Moment - M-1114-07686,INV,Kristen Dunn,11/17/2014,11/17/2014,,11/17/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7570,Moment - M-1114-07706,INV,Joseph Chandler,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6945,Moment - M-1114-07717,INV,Serena Cevenini,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7584,Moment - M-1114-07718,INV,Ahmad Alayoub,11/30/2014,11/30/2014,,12/1/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7586,Moment - M-1114-07727,INV,milo nickel,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7553,Moment - M-1114-07728,INV,Audra Wacaster,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7583,Moment - M-1114-07729,INV,edwin ong,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7581,Moment - M-1114-07730,INV,Michelle Alexander,11/30/2014,11/30/2014,,12/1/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7587,Moment - M-1114-07732,INV,Ruben Alanis,11/30/2014,11/30/2014,,12/1/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7578,Moment - M-1114-07733,INV,Colleen Borst,11/30/2014,11/30/2014,,12/1/2014,$15.32,$15.32,$0.00,,Unsent,Paid
+7585,Moment - M-1114-07734,INV,Michelle Tio,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6897,Moment - M-1114-07736,INV,Alec Stringer,11/17/2014,11/17/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7552,Moment - M-1114-07737,INV,Natasha Munro,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7551,Moment - M-1114-07738,INV,The Underground,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7571,Moment - M-1114-07739,INV,Linda George,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7550,Moment - M-1114-07740,INV,matthew ward,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7582,Moment - M-1114-07741,INV,Taejong Kim,11/30/2014,11/30/2014,,12/1/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7549,Moment - M-1114-07743,INV,charles wright,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6899,Moment - M-1114-07744,INV,bank of baroda,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7548,Moment - M-1114-07748,INV,Kevin Tavog,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7547,Moment - M-1114-07751,INV,Nancy Truong,11/30/2014,11/30/2014,,11/30/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+6969,Moment - M-1114-07754,INV,Juan freile,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7580,Moment - M-1114-07763,INV,Joe Rodricks,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6948,Moment - M-1114-07767,INV,Robert Jordan,11/18/2014,11/18/2014,,11/18/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+6947,Moment - M-1114-07770,INV,Lee Rosen,11/18/2014,11/18/2014,,11/18/2014,$289.96,$289.96,$0.00,,Unsent,Paid
+7579,Moment - M-1114-07771,INV,Acer Office Reception,11/30/2014,11/30/2014,,12/1/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6946,Moment - M-1114-07773,INV,Brian Hayes,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6838,Moment - M-1114-07774,INV,julie strong,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6840,Moment - M-1114-07776,INV,Niels van Eck,11/17/2014,11/17/2014,,11/17/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6841,Moment - M-1114-07778,INV,QL Management B.V.,11/17/2014,11/17/2014,,11/17/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6842,Moment - M-1114-07779,INV,LIWEI HU HU,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6843,Moment - M-1114-07780,INV,Young Yune,11/17/2014,11/17/2014,,11/17/2014,$69.98,$69.98,$0.00,,Unsent,Paid
+6844,Moment - M-1114-07781,INV,Kinh Pham,11/17/2014,11/17/2014,,11/17/2014,$129.97,$129.97,$0.00,,Unsent,Paid
+6845,Moment - M-1114-07782,INV,Benjamin D Roy,11/17/2014,11/17/2014,,11/17/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6862,Moment - M-1114-07783,INV,Vivian Ecker,11/17/2014,11/17/2014,,11/17/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6848,Moment - M-1114-07784,INV,Kathy Umbanhowar,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6849,Moment - M-1114-07785,INV,Michael Bartgis,11/17/2014,11/17/2014,,11/17/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6850,Moment - M-1114-07786,INV,Terence Donovan,11/17/2014,11/17/2014,,11/17/2014,$259.96,$259.96,$0.00,,Unsent,Paid
+6851,Moment - M-1114-07787,INV,Imad El-Sayed,11/17/2014,11/17/2014,,11/17/2014,$69.97,$69.97,$0.00,,Unsent,Paid
+6852,Moment - M-1114-07788,INV,Edwin Wong,11/17/2014,11/17/2014,,11/17/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6856,Moment - M-1114-07789,INV,Allan Levassort,11/17/2014,11/17/2014,,11/17/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+6857,Moment - M-1114-07790,INV,Bruce Failing,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6858,Moment - M-1114-07791,INV,David Wong,11/17/2014,11/17/2014,,11/17/2014,$159.97,$159.97,$0.00,,Unsent,Paid
+6864,Moment - M-1114-07792,INV,Rupert Maspero,11/17/2014,11/17/2014,,11/17/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6863,Moment - M-1114-07792,INV,Rupert Maspero,11/17/2014,11/17/2014,,11/17/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6859,Moment - M-1114-07792,INV,Rupert Maspero,11/17/2014,11/17/2014,,11/17/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6865,Moment - M-1114-07793,INV,Alex Knight,11/17/2014,11/17/2014,,11/17/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6867,Moment - M-1114-07794,INV,Michael Benning,11/17/2014,11/17/2014,,11/17/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6866,Moment - M-1114-07794,INV,Michael Benning,11/17/2014,11/17/2014,,11/17/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6869,Moment - M-1114-07795,INV,Photos by Bailey,11/17/2014,11/17/2014,,11/17/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+6868,Moment - M-1114-07796,INV,Studio 706,11/17/2014,11/17/2014,,11/17/2014,$130.42,$130.42,$0.00,,Unsent,Paid
+6871,Moment - M-1114-07797,INV,James Greensmith,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6870,Moment - M-1114-07797,INV,James Greensmith,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6884,Moment - M-1114-07798,INV,ted egerton,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6888,Moment - M-1114-07799,INV,Nicole Kimball,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6886,Moment - M-1114-07799,INV,Nicole Kimball,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6883,Moment - M-1114-07799,INV,Nicole Kimball,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6889,Moment - M-1114-07800,INV,Patrick Crawford,11/18/2014,11/18/2014,,11/18/2014,$15.32,$15.32,$0.00,,Unsent,Paid
+6890,Moment - M-1114-07808,INV,Rob van der Meulen,11/18/2014,11/18/2014,,11/18/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6837,Moment - M-1114-07809,INV,Martin Hill,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6846,Moment - M-1114-07810,INV,Solid Rock Church,11/17/2014,11/17/2014,,11/17/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6847,Moment - M-1114-07811,INV,Arjan Roelofs,11/17/2014,11/17/2014,,11/17/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6853,Moment - M-1114-07812,INV,Zach Mills,11/17/2014,11/17/2014,,11/17/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6854,Moment - M-1114-07813,INV,Mohammed Al Hammadi,11/17/2014,11/17/2014,,11/17/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6855,Moment - M-1114-07814,INV,Gabriel LaMothe,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6860,Moment - M-1114-07815,INV,Erik Sukke,11/17/2014,11/17/2014,,11/17/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+6861,Moment - M-1114-07816,INV,Demco,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6891,Moment - M-1114-07817,INV,Darrell Scott French,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6872,Moment - M-1114-07818,INV,Chris Lema,11/17/2014,11/17/2014,,11/17/2014,$29.98,$29.98,$0.00,,Unsent,Paid
+6873,Moment - M-1114-07819,INV,Olaf Wojak,11/17/2014,11/17/2014,,11/17/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6874,Moment - M-1114-07820,INV,Audrey Muir,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7127,Moment - M-1114-07821,INV,Emily O'Hara,11/24/2014,11/24/2014,,11/24/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+6881,Moment - M-1114-07822,INV,Madanis Rodriguez,11/17/2014,11/17/2014,,11/17/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6882,Moment - M-1114-07823,INV,Jeffrey Kam,11/17/2014,11/17/2014,,11/17/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6885,Moment - M-1114-07824,INV,David stowe,11/17/2014,11/17/2014,,11/17/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6893,Moment - M-1114-07827,INV,Aaron Krogman,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6892,Moment - M-1114-07827,INV,Aaron Krogman,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6901,Moment - M-1114-07829,INV,John Grotz,11/18/2014,11/18/2014,,11/18/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+6895,Moment - M-1114-07829,INV,John Grotz,11/18/2014,11/18/2014,,11/18/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+6894,Moment - M-1114-07829,INV,John Grotz,11/18/2014,11/18/2014,,11/18/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+6902,Moment - M-1114-07835,INV,Dan Fischer,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6904,Moment - M-1114-07836,INV,Trisikh Sanguanbun,11/18/2014,11/18/2014,,11/18/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6903,Moment - M-1114-07836,INV,Trisikh Sanguanbun,11/18/2014,11/18/2014,,11/18/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6905,Moment - M-1114-07837,INV,Adam Nashif,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6906,Moment - M-1114-07838,INV,Grant Farhall,11/18/2014,11/18/2014,,11/18/2014,$289.96,$289.96,$0.00,,Unsent,Paid
+6907,Moment - M-1114-07839,INV,Amy Aleksiev,11/18/2014,11/18/2014,,11/18/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+6896,Moment - M-1114-07841,INV,N/A,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6898,Moment - M-1114-07842,INV,Sohei Asao,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6915,Moment - M-1114-07843,INV,Josh Welborn,11/18/2014,11/18/2014,,11/18/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6916,Moment - M-1114-07845,INV,Ofelia Gonzalez,11/18/2014,11/18/2014,,11/18/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6917,Moment - M-1114-07846,INV,Ben Ballstaedt,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6920,Moment - M-1114-07847,INV,Ernst Joranger,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6919,Moment - M-1114-07848,INV,YULIN PAN,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6918,Moment - M-1114-07848,INV,YULIN PAN,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6926,Moment - M-1114-07849,INV,BUSINESS ACCOUNT,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6921,Moment - M-1114-07849,INV,BUSINESS ACCOUNT,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6927,Moment - M-1114-07850,INV,Piotr Naskrecki,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6937,Moment - M-1114-07851,INV,Bruce Lai,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6928,Moment - M-1114-07851,INV,Bruce Lai,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6909,Moment - M-1114-07852,INV,Sprezzatura New York,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6910,Moment - M-1114-07853,INV,David Martin,11/18/2014,11/18/2014,,11/18/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6938,Moment - M-1114-07854,INV,Dmitry Balakhonskiy,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6911,Moment - M-1114-07855,INV,Ericsson,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6912,Moment - M-1114-07856,INV,James Benn,11/18/2014,11/18/2014,,11/18/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6939,Moment - M-1114-07857,INV,Hardy Baker,11/18/2014,11/18/2014,,11/18/2014,$129.97,$129.97,$0.00,,Unsent,Paid
+6940,Moment - M-1114-07858,INV,Erin Easley,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6941,Moment - M-1114-07859,INV,Sean Andrews,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6922,Moment - M-1114-07860,INV,Edward Gecovich,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6923,Moment - M-1114-07861,INV,Adam van Noort Photography,11/18/2014,11/18/2014,,11/18/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6924,Moment - M-1114-07862,INV,Integr8 LLC,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6925,Moment - M-1114-07863,INV,Chris Czachor,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6929,Moment - M-1114-07864,INV,Zach Wilkinson,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6930,Moment - M-1114-07865,INV,Lindsay McIntire,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6931,Moment - M-1114-07866,INV,James Dubberley,11/18/2014,11/18/2014,,11/18/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6933,Moment - M-1114-07867,INV,Mito,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6934,Moment - M-1114-07868,INV,black heart beverage,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6935,Moment - M-1114-07870,INV,Justin Black,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6936,Moment - M-1114-07872,INV,John McCurry Inc.,11/18/2014,11/18/2014,,11/18/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6943,Moment - M-1114-07873,INV,Sergey Shmidt,11/18/2014,11/18/2014,,11/18/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6944,Moment - M-1114-07874,INV,Jenn Manor,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6950,Moment - M-1114-07875,INV,Atomic,11/18/2014,11/18/2014,,11/18/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6951,Moment - M-1114-07876,INV,Xudong Zhang,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6953,Moment - M-1114-07877,INV,JosŽ Eduardo da Rocha Azevedo,11/19/2014,11/19/2014,,11/19/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6954,Moment - M-1114-07878,INV,Kimli Welsh,11/19/2014,11/19/2014,,11/19/2014,$69.97,$69.97,$0.00,,Unsent,Paid
+6955,Moment - M-1114-07879,INV,Maykel Loomans,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6956,Moment - M-1114-07880,INV,Olga Dmitrieva,11/19/2014,11/19/2014,,11/19/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7546,Moment - M-1114-07881,INV,Loree Rowland,11/30/2014,11/30/2014,,11/30/2014,$115.32,$115.32,$0.00,,Unsent,Paid
+6957,Moment - M-1114-07882,INV,Kevin Patel,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6958,Moment - M-1114-07884,INV,Hailey Cahill,11/19/2014,11/19/2014,,11/19/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+6959,Moment - M-1114-07885,INV,pablo baraybar,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6961,Moment - M-1114-07886,INV,Gary Gunderson,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6960,Moment - M-1114-07887,INV,Brad Douglas,11/19/2014,11/19/2014,,11/19/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7545,Moment - M-1114-07888,INV,GH Kim Photography LLC,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+6962,Moment - M-1114-07890,INV,Hector Faudoa,11/19/2014,11/19/2014,,11/19/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6963,Moment - M-1114-07891,INV,Bianca O'Brien,11/19/2014,11/19/2014,,11/19/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+6964,Moment - M-1114-07892,INV,Matthew Brodeur,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6965,Moment - M-1114-07893,INV,Sue Garrett,11/19/2014,11/19/2014,,11/19/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6966,Moment - M-1114-07894,INV,CINEMA ENT.,11/19/2014,11/19/2014,,11/19/2014,$314.94,$314.94,$0.00,,Unsent,Paid
+6972,Moment - M-1114-07895,INV,David Liew,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6967,Moment - M-1114-07896,INV,andrea devries,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6968,Moment - M-1114-07897,INV,Sands Investment Group,11/19/2014,11/19/2014,,11/19/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+6973,Moment - M-1114-07898,INV,Aye Hnin Phyu,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6970,Moment - M-1114-07899,INV,Kelly Lum,11/19/2014,11/19/2014,,11/19/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+6971,Moment - M-1114-07900,INV,Dennis Nguyen,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6974,Moment - M-1114-07903,INV,Wendy Xue,11/19/2014,11/19/2014,,11/19/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6976,Moment - M-1114-07904,INV,Matt Walker,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6977,Moment - M-1114-07905,INV,Angela Chan,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6978,Moment - M-1114-07906,INV,Will Coffin,11/19/2014,11/19/2014,,11/19/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+6979,Moment - M-1114-07907,INV,Mark Alberhasky,11/19/2014,11/19/2014,,11/19/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+6980,Moment - M-1114-07908,INV,Andreas Gršnqvist,11/19/2014,11/19/2014,,11/19/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6981,Moment - M-1114-07909,INV,Mary-Kay Tilden,11/19/2014,11/19/2014,,11/19/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+6982,Moment - M-1114-07910,INV,Ziv Gillat,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7544,Moment - M-1114-07911,INV,Anthony Chang,11/30/2014,11/30/2014,,11/30/2014,$15.32,$15.32,$0.00,,Unsent,Paid
+6983,Moment - M-1114-07912,INV,Dave Currie,11/19/2014,11/19/2014,,11/19/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6984,Moment - M-1114-07913,INV,Brian Shepard,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6985,Moment - M-1114-07915,INV,sally@sallyjphotography.co.uk,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6986,Moment - M-1114-07916,INV,Li Shen,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6989,Moment - M-1114-07917,INV,Allan Duah,11/19/2014,11/19/2014,,11/19/2014,$159.98,$159.98,$0.00,,Unsent,Paid
+6990,Moment - M-1114-07918,INV,Curtis Hill,11/19/2014,11/19/2014,,11/19/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+6991,Moment - M-1114-07919,INV,nina rachelle tanada,11/19/2014,11/19/2014,,11/19/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6992,Moment - M-1114-07920,INV,Teri Lou Dantzler,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6993,Moment - M-1114-07921,INV,Allison Weippert,11/19/2014,11/19/2014,,11/19/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+6995,Moment - M-1114-07922,INV,Jill Uttz,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7538,Moment - M-1114-07923,INV,Steve Singh,11/30/2014,11/30/2014,,11/30/2014,$314.61,$314.61,$0.00,,Unsent,Paid
+6996,Moment - M-1114-07924,INV,Michelle Nieves,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6997,Moment - M-1114-07925,INV,Wayne Lunsford,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6998,Moment - M-1114-07926,INV,Leah Flores,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+6999,Moment - M-1114-07927,INV,Yerlin Diaz,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7000,Moment - M-1114-07928,INV,Christopher Mirabile,11/20/2014,11/20/2014,,11/20/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7001,Moment - M-1114-07929,INV,Todd Kozan,11/20/2014,11/20/2014,,11/20/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7536,Moment - M-1114-07930,INV,Manuela Crowley,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7003,Moment - M-1114-07931,INV,Jan Hosa e.U.,11/20/2014,11/20/2014,,11/20/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7004,Moment - M-1114-07932,INV,The Mayer Institute,11/20/2014,11/20/2014,,11/20/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7005,Moment - M-1114-07933,INV,Rob Gorman,11/20/2014,11/20/2014,,11/20/2014,$24.98,$24.98,$0.00,,Unsent,Paid
+7006,Moment - M-1114-07934,INV,Michael Raboy,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7007,Moment - M-1114-07935,INV,Lee Ching Chia,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7008,Moment - M-1114-07936,INV,"Law Office of Steven J. Watson, PLC",11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7009,Moment - M-1114-07937,INV,UCL,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7011,Moment - M-1114-07938,INV,Bolts Action,11/20/2014,11/20/2014,,11/20/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7010,Moment - M-1114-07939,INV,Gabriel Fehr,11/20/2014,11/20/2014,,11/20/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7012,Moment - M-1114-07940,INV,Seoung Lee,11/20/2014,11/20/2014,,11/20/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7013,Moment - M-1114-07941,INV,NA,11/20/2014,11/20/2014,,11/20/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7015,Moment - M-1114-07942,INV,Joseph Lo,11/20/2014,11/20/2014,,11/20/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7014,Moment - M-1114-07942,INV,Joseph Lo,11/20/2014,11/20/2014,,11/20/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7016,Moment - M-1114-07943,INV,yuichiro kanematsu,11/20/2014,11/20/2014,,11/20/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7018,Moment - M-1114-07944,INV,Kolya S,11/20/2014,11/20/2014,,11/20/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7020,Moment - M-1114-07946,INV,Vera Cannizzo,11/20/2014,11/20/2014,,11/20/2014,$139.96,$139.96,$0.00,,Unsent,Paid
+7534,Moment - M-1114-07947,INV,Benjamin Haun,11/30/2014,11/30/2014,,11/30/2014,$229.93,$229.93,$0.00,,Unsent,Paid
+7024,Moment - M-1114-07949,INV,John Delaney,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7023,Moment - M-1114-07950,INV,Brian Townsend,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7025,Moment - M-1114-07951,INV,eva amadi,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7026,Moment - M-1114-07952,INV,Brenda Stephens,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7027,Moment - M-1114-07953,INV,Taratorn Punsri,11/21/2014,11/21/2014,,11/21/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7028,Moment - M-1114-07954,INV,Finny Ho,11/21/2014,11/21/2014,,11/21/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7029,Moment - M-1114-07955,INV,vopham J. pham,11/21/2014,11/21/2014,,11/21/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+7035,Moment - M-1114-07956,INV,Paul Cooke,11/21/2014,11/21/2014,,11/21/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7532,Moment - M-1114-07957,INV,Kotis Design,11/30/2014,11/30/2014,,11/30/2014,$175.17,$175.17,$0.00,,Unsent,Paid
+7032,Moment - M-1114-07958,INV,Salem Al-Mannai,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7030,Moment - M-1114-07959,INV,Laurel Pies,11/21/2014,11/21/2014,,11/21/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7031,Moment - M-1114-07960,INV,arwin caljouw,11/21/2014,11/21/2014,,11/21/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7033,Moment - M-1114-07961,INV,Christian Feichtner,11/21/2014,11/21/2014,,11/21/2014,$189.97,$189.97,$0.00,,Unsent,Paid
+7034,Moment - M-1114-07962,INV,SHUJI ASADA,11/21/2014,11/21/2014,,11/21/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+7037,Moment - M-1114-07963,INV,Joseph Durfey,11/21/2014,11/21/2014,,11/21/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7036,Moment - M-1114-07963,INV,Joseph Durfey,11/21/2014,11/21/2014,,11/21/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7531,Moment - M-1114-07964,INV,Debra Rother,11/30/2014,11/30/2014,,11/30/2014,$229.93,$229.93,$0.00,,Unsent,Paid
+7042,Moment - M-1114-07965,INV,Peter Wollesen,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7038,Moment - M-1114-07965,INV,Peter Wollesen,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7530,Moment - M-1114-07966,INV,Matthew Dyrland-Marquis,11/30/2014,11/30/2014,,11/30/2014,$114.89,$114.89,$0.00,,Unsent,Paid
+7052,Moment - M-1114-07968,INV,Amro Gebreel,11/22/2014,11/22/2014,,11/22/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7053,Moment - M-1114-07969,INV,Steven Shipman,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7054,Moment - M-1114-07970,INV,Roy Quek,11/22/2014,11/22/2014,,11/22/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+7039,Moment - M-1114-07971,INV,Ronald Rieger,11/21/2014,11/21/2014,,11/21/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7040,Moment - M-1114-07972,INV,Ken Kamada,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7041,Moment - M-1114-07973,INV,Michael Raboy,11/21/2014,11/21/2014,,11/21/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7055,Moment - M-1114-07974,INV,Luis de Freitas,11/22/2014,11/22/2014,,11/22/2014,$144.97,$144.97,$0.00,,Unsent,Paid
+7056,Moment - M-1114-07975,INV,Charlie Lieberman,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7043,Moment - M-1114-07976,INV,Prashant Karki,11/21/2014,11/21/2014,,11/21/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+7044,Moment - M-1114-07977,INV,Jerri Romm,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7045,Moment - M-1114-07978,INV,Randy Ferrance,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7046,Moment - M-1114-07979,INV,Zheng Han,11/21/2014,11/21/2014,,11/21/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7047,Moment - M-1114-07980,INV,Ilonka Van Der Putten,11/21/2014,11/21/2014,,11/21/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7058,Moment - M-1114-07981,INV,Ben Thomas,11/22/2014,11/22/2014,,11/22/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7059,Moment - M-1114-07982,INV,Instagram,11/22/2014,11/22/2014,,11/22/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+7060,Moment - M-1114-07983,INV,Wendy Hu,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7048,Moment - M-1114-07984,INV,Paul Kinsman,11/22/2014,11/22/2014,,11/22/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7529,Moment - M-1114-07985,INV,Eric Strout,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7049,Moment - M-1114-07986,INV,Robert Gaynor,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7062,Moment - M-1114-07987,INV,Five Digits,11/22/2014,11/22/2014,,11/22/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+7063,Moment - M-1114-07988,INV,Mellony Watson,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7064,Moment - M-1114-07989,INV,Tyler Solu,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7528,Moment - M-1114-07990,INV,David Babcock,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7065,Moment - M-1114-07991,INV,"Thai Bridgestone Co., Ltd.",11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7066,Moment - M-1114-07992,INV,Madhusudana Reddy Korsipati,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7067,Moment - M-1114-07993,INV,Karen Weber,11/22/2014,11/22/2014,,11/22/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+7068,Moment - M-1114-07994,INV,Allen Jarvis,11/22/2014,11/22/2014,,11/22/2014,$80.99,$80.99,$0.00,,Unsent,Paid
+7069,Moment - M-1114-07995,INV,Anthony Savino,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7070,Moment - M-1114-07996,INV,Olivia O'Shea,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7071,Moment - M-1114-07997,INV,Yuriy Rzhemovskiy,11/22/2014,11/22/2014,,11/22/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7072,Moment - M-1114-07998,INV,Reunion Design Services,11/22/2014,11/22/2014,,11/22/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7073,Moment - M-1114-07999,INV,Erik Leavell,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7074,Moment - M-1114-08001,INV,Laura Menendez,11/22/2014,11/22/2014,,11/22/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+7075,Moment - M-1114-08002,INV,Fireboy Creative Inc.,11/22/2014,11/22/2014,,11/22/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7076,Moment - M-1114-08003,INV,William Conger,11/22/2014,11/22/2014,,11/22/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+7077,Moment - M-1114-08004,INV,CARYL LEE,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7078,Moment - M-1114-08005,INV,Quinn Losselyong,11/23/2014,11/23/2014,,11/23/2014,$89.98,$89.98,$0.00,,Unsent,Paid
+7079,Moment - M-1114-08006,INV,Anita Fonseca,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7080,Moment - M-1114-08007,INV,Alejandro Alvarez Jr.,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7527,Moment - M-1114-08008,INV,Inspired By Annetta,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7081,Moment - M-1114-08010,INV,Nathan Grubbs,11/23/2014,11/23/2014,,11/23/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7082,Moment - M-1114-08011,INV,Jonathan peralta,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7083,Moment - M-1114-08012,INV,c/Medtronic,11/23/2014,11/23/2014,,11/23/2014,$119.98,$119.98,$0.00,,Unsent,Paid
+7084,Moment - M-1114-08013,INV,Johanna MacLeod,11/23/2014,11/23/2014,,11/23/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7085,Moment - M-1114-08014,INV,Andrea Ellinger,11/23/2014,11/23/2014,,11/23/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7086,Moment - M-1114-08015,INV,Andrew Roepke,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7087,Moment - M-1114-08016,INV,Richard Findlay,11/23/2014,11/23/2014,,11/23/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7088,Moment - M-1114-08017,INV,Shelley Sutherland,11/23/2014,11/23/2014,,11/23/2014,$309.97,$309.97,$0.00,,Unsent,Paid
+7089,Moment - M-1114-08018,INV,Feng Shui Austria,11/23/2014,11/23/2014,,11/23/2014,$309.97,$309.97,$0.00,,Unsent,Paid
+7091,Moment - M-1114-08019,INV,pierre-alain folliet,11/23/2014,11/23/2014,,11/23/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7090,Moment - M-1114-08020,INV,Stewart Leishman,11/23/2014,11/23/2014,,11/23/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7092,Moment - M-1114-08021,INV,Lorenzetti Mattia,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7093,Moment - M-1114-08022,INV,Michael Woods,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7095,Moment - M-1114-08023,INV,Zayed University,11/23/2014,11/23/2014,,11/23/2014,$614.94,$614.94,$0.00,,Unsent,Paid
+7094,Moment - M-1114-08024,INV,Elaine Leaverton,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7096,Moment - M-1114-08026,INV,Martin Sodeikat,11/23/2014,11/23/2014,,11/23/2014,$89.98,$89.98,$0.00,,Unsent,Paid
+7097,Moment - M-1114-08027,INV,barry mcwilliams,11/23/2014,11/23/2014,,11/23/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7098,Moment - M-1114-08028,INV,Daniel Habluetzel,11/23/2014,11/23/2014,,11/23/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7526,Moment - M-1114-08029,INV,Deborah Wangsaputri,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7099,Moment - M-1114-08030,INV,Linda Geary,11/23/2014,11/23/2014,,11/23/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7100,Moment - M-1114-08031,INV,Ellen Portrait,11/23/2014,11/23/2014,,11/23/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7101,Moment - M-1114-08032,INV,binh ly,11/23/2014,11/23/2014,,11/23/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7102,Moment - M-1114-08033,INV,Lucy Chaumet,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7103,Moment - M-1114-08034,INV,ParryRosenthalArchitects,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7114,Moment - M-1114-08035,INV,Tom Ruggles,11/24/2014,11/24/2014,,11/24/2014,$175.17,$175.17,$0.00,,Unsent,Paid
+7104,Moment - M-1114-08036,INV,Marynell Murphy,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7109,Moment - M-1114-08037,INV,James Taylor,11/24/2014,11/24/2014,,11/24/2014,$289.96,$289.96,$0.00,,Unsent,Paid
+7105,Moment - M-1114-08038,INV,Karen Earnest,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7106,Moment - M-1114-08039,INV,Amanda Rausch,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7107,Moment - M-1114-08040,INV,Mohd Rudzainy Abdul Rahman,11/24/2014,11/24/2014,,11/24/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7108,Moment - M-1114-08041,INV,Aye Hnin Phyu,11/24/2014,11/24/2014,,11/24/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7111,Moment - M-1114-08042,INV,Caleb Yeung,11/24/2014,11/24/2014,,11/24/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7110,Moment - M-1114-08043,INV,David HT Kim,11/24/2014,11/24/2014,,11/24/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7112,Moment - M-1114-08044,INV,Nasrulla Adnan,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7113,Moment - M-1114-08045,INV,Charles Couch,11/24/2014,11/24/2014,,11/24/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7115,Moment - M-1114-08046,INV,Garry J McAlpine,11/24/2014,11/24/2014,,11/24/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7116,Moment - M-1114-08047,INV,Robin Matsumoto,11/24/2014,11/24/2014,,11/24/2014,$159.97,$159.97,$0.00,,Unsent,Paid
+7117,Moment - M-1114-08048,INV,Kwan Ho Harold Lee,11/24/2014,11/24/2014,,11/24/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7118,Moment - M-1114-08049,INV,Jared Gargano,11/24/2014,11/24/2014,,11/24/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7119,Moment - M-1114-08050,INV,N/A,11/24/2014,11/24/2014,,11/24/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7120,Moment - M-1114-08051,INV,Raymond Lee,11/24/2014,11/24/2014,,11/24/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7122,Moment - M-1114-08052,INV,Camila Rodrigues Pontes,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7123,Moment - M-1114-08053,INV,Elizabeth Hoyt,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7124,Moment - M-1114-08054,INV,Bruce Miller,11/24/2014,11/24/2014,,11/24/2014,$229.93,$229.93,$0.00,,Unsent,Paid
+7121,Moment - M-1114-08055,INV,FELBRO,11/24/2014,11/24/2014,,11/24/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7125,Moment - M-1114-08056,INV,Sergey Morozik,11/24/2014,11/24/2014,,11/24/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7126,Moment - M-1114-08057,INV,David Teague,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7128,Moment - M-1114-08058,INV,Sahaschai Pinmanee,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7131,Moment - M-1114-08059,INV,nick serjeant,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7129,Moment - M-1114-08059,INV,nick serjeant,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7130,Moment - M-1114-08060,INV,Allison Parker,11/24/2014,11/24/2014,,11/24/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7523,Moment - M-1114-08061,INV,Karen Fritzky,11/30/2014,11/30/2014,,11/30/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7133,Moment - M-1114-08061,INV,Karen Fritzky,11/25/2014,11/25/2014,,11/25/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7522,Moment - M-1114-08063,INV,Slade Warren,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7142,Moment - M-1114-08064,INV,Jean Weiss,11/25/2014,11/25/2014,,11/25/2014,$240.85,$240.85,$0.00,,Unsent,Paid
+7135,Moment - M-1114-08065,INV,Toni Tantlinger,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7134,Moment - M-1114-08066,INV,desmond chislom,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7136,Moment - M-1114-08067,INV,Roxanne Berardinelli,11/25/2014,11/25/2014,,11/25/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7139,Moment - M-1114-08068,INV,Alberto Vildosola,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7137,Moment - M-1114-08068,INV,Alberto Vildosola,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7143,Moment - M-1114-08069,INV,Jessica Hogan,11/25/2014,11/25/2014,,11/25/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+7140,Moment - M-1114-08069,INV,Jessica Hogan,11/25/2014,11/25/2014,,11/25/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+7144,Moment - M-1114-08070,INV,Jessica Chow,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7138,Moment - M-1114-08071,INV,NAOKI OZAWA,11/25/2014,11/25/2014,,11/25/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7145,Moment - M-1114-08072,INV,Jessica Chow,11/25/2014,11/25/2014,,11/25/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7146,Moment - M-1114-08073,INV,Kevin Schafer,11/25/2014,11/25/2014,,11/25/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7149,Moment - M-1114-08074,INV,Annemarieke Mensing,11/25/2014,11/25/2014,,11/25/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+7147,Moment - M-1114-08074,INV,Annemarieke Mensing,11/25/2014,11/25/2014,,11/25/2014,$45.99,$45.99,$0.00,,Unsent,Paid
+7150,Moment - M-1114-08075,INV,ICO Limited,11/25/2014,11/25/2014,,11/25/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7151,Moment - M-1114-08076,INV,JD photography,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7152,Moment - M-1114-08077,INV,Jane Danese,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7153,Moment - M-1114-08078,INV,laura gellman,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7156,Moment - M-1114-08079,INV,Mediatria France SARL - TVA intracomm: FR23520972001,11/25/2014,11/25/2014,,11/25/2014,$219.97,$219.97,$0.00,,Unsent,Paid
+7141,Moment - M-1114-08080,INV,Christopher Seinsche,11/25/2014,11/25/2014,,11/25/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7157,Moment - M-1114-08081,INV,Mark Casady,11/25/2014,11/25/2014,,11/25/2014,$289.96,$289.96,$0.00,,Unsent,Paid
+7148,Moment - M-1114-08082,INV,ROBERT Pabst,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7158,Moment - M-1114-08083,INV,Rachel Flamm,11/25/2014,11/25/2014,,11/25/2014,$15.32,$15.32,$0.00,,Unsent,Paid
+7154,Moment - M-1114-08084,INV,Steven Stern,11/25/2014,11/25/2014,,11/25/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7155,Moment - M-1114-08085,INV,Jennifer Zahradnik,11/25/2014,11/25/2014,,11/25/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7159,Moment - M-1114-08087,INV,Robert Jimenez,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7160,Moment - M-1114-08088,INV,Hewlett-Packard,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7519,Moment - M-1114-08089,INV,Ian Crawford,11/30/2014,11/30/2014,,11/30/2014,$19.98,$19.98,$0.00,,Unsent,Paid
+7161,Moment - M-1114-08090,INV,Gregory Wexler,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7518,Moment - M-1114-08091,INV,Wonderlust Living,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7162,Moment - M-1114-08092,INV,Yury Yurkevich,11/25/2014,11/25/2014,,11/25/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7517,Moment - M-1114-08093,INV,Joachim MŸller,11/30/2014,11/30/2014,,11/30/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7516,Moment - M-1114-08095,INV,2degrees,11/30/2014,11/30/2014,,11/30/2014,$159.97,$159.97,$0.00,,Unsent,Paid
+7514,Moment - M-1114-08099,INV,JB,11/30/2014,11/30/2014,,11/30/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7513,Moment - M-1114-08100,INV,DONI PUTRA,11/30/2014,11/30/2014,,11/30/2014,$129.97,$129.97,$0.00,,Unsent,Paid
+7166,Moment - M-1114-08101,INV,Neil Baltus,11/26/2014,11/26/2014,,11/26/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7167,Moment - M-1114-08102,INV,Fernando Marinez,11/26/2014,11/26/2014,,11/26/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7165,Moment - M-1114-08103,INV,adidas,11/26/2014,11/26/2014,,11/26/2014,$249.97,$249.97,$0.00,,Unsent,Paid
+7168,Moment - M-1114-08104,INV,Steven Tran,11/26/2014,11/26/2014,,11/26/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7163,Moment - M-1114-08105,INV,Lorna Tansey,11/26/2014,11/26/2014,,11/26/2014,$159.97,$159.97,$0.00,,Unsent,Paid
+7164,Moment - M-1114-08106,INV,David Fahrny,11/26/2014,11/26/2014,,11/26/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7171,Moment - M-1114-08107,INV,Weeks Research,11/26/2014,11/26/2014,,11/26/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7172,Moment - M-1114-08108,INV,Julia Rashid,11/26/2014,11/26/2014,,11/26/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7170,Moment - M-1114-08109,INV,Roland Baker,11/26/2014,11/26/2014,,11/26/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7173,Moment - M-1114-08110,INV,TIAN GAN,11/26/2014,11/26/2014,,11/26/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7174,Moment - M-1114-08113,INV,Guru Shetti,11/26/2014,11/26/2014,,11/26/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7175,Moment - M-1114-08114,INV,Lauren Short,11/26/2014,11/26/2014,,11/26/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7176,Moment - M-1114-08115,INV,Dan Romero,11/27/2014,11/27/2014,,11/27/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7177,Moment - M-1114-08116,INV,Scott Downie,11/27/2014,11/27/2014,,11/27/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7512,Moment - M-1114-08117,INV,Manfred Metzger,11/30/2014,11/30/2014,,11/30/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7511,Moment - M-1114-08119,INV,Ian Symmons,11/30/2014,11/30/2014,,11/30/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7510,Moment - M-1114-08120,INV,Gareth Trollope,11/30/2014,11/30/2014,,11/30/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7509,Moment - M-1114-08121,INV,Cesar Inserny,11/30/2014,11/30/2014,,11/30/2014,$99.97,$99.97,$0.00,,Unsent,Paid
+7508,Moment - M-1114-08122,INV,Discovery Counseling Associates,11/30/2014,11/30/2014,,11/30/2014,$15.21,$15.21,$0.00,,Unsent,Paid
+7507,Moment - M-1114-08124,INV,Ukeme Umana,11/30/2014,11/30/2014,,11/30/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7506,Moment - M-1114-08125,INV,nick holm,11/30/2014,11/30/2014,,11/30/2014,$162.73,$162.73,$0.00,,Unsent,Paid
+7505,Moment - M-1114-08126,INV,Julien Gayet,11/30/2014,11/30/2014,,11/30/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7504,Moment - M-1114-08129,INV,CURIOUS MINDS TRAVEL,11/30/2014,11/30/2014,,11/30/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7503,Moment - M-1114-08130,INV,Daniel Mauer,11/30/2014,11/30/2014,,11/30/2014,$105.99,$105.99,$0.00,,Unsent,Paid
+7502,Moment - M-1114-08132,INV,John Agger,11/30/2014,11/30/2014,,11/30/2014,$33.97,$33.97,$0.00,,Unsent,Paid
+7501,Moment - M-1114-08133,INV,George Brennan,11/30/2014,11/30/2014,,11/30/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7500,Moment - M-1114-08134,INV,Amanda Kirk,11/30/2014,11/30/2014,,11/30/2014,$82.11,$82.11,$0.00,,Unsent,Paid
+7499,Moment - M-1114-08135,INV,Louis Brown,11/30/2014,11/30/2014,,11/30/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7178,Moment - M-1114-08137,INV,Lorna Tansey,11/27/2014,11/27/2014,,11/27/2014,$122.47,$122.47,$0.00,,Unsent,Paid
+7184,Moment - M-1114-08138,INV,Samantha Liew,11/27/2014,11/27/2014,,11/27/2014,$209.98,$209.98,$0.00,,Unsent,Paid
+7179,Moment - M-1114-08139,INV,Mark Pappalardo,11/27/2014,11/27/2014,,11/27/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7180,Moment - M-1114-08140,INV,Jane Gowe,11/27/2014,11/27/2014,,11/27/2014,$116.06,$116.06,$0.00,,Unsent,Paid
+7183,Moment - M-1114-08141,INV,Chung-Yi Hong,11/27/2014,11/27/2014,,11/27/2014,$23.98,$23.98,$0.00,,Unsent,Paid
+7181,Moment - M-1114-08142,INV,Stuart Holmes,11/27/2014,11/27/2014,,11/27/2014,$115.32,$115.32,$0.00,,Unsent,Paid
+7182,Moment - M-1114-08143,INV,Lynette Martens,11/27/2014,11/27/2014,,11/27/2014,$289.95,$289.95,$0.00,,Unsent,Paid
+7185,Moment - M-1114-08144,INV,Rachel Thornton,11/27/2014,11/27/2014,,11/27/2014,$119.66,$119.66,$0.00,,Unsent,Paid
+7186,Moment - M-1114-08145,INV,Overstock.com,11/27/2014,11/27/2014,,11/27/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7187,Moment - M-1114-08146,INV,ADK INTERNATIONAL.INC,11/27/2014,11/27/2014,,11/27/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7188,Moment - M-1114-08147,INV,Ray Duncan,11/27/2014,11/27/2014,,11/27/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7199,Moment - M-1114-08148,INV,NO MING WAI,11/27/2014,11/27/2014,,11/27/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7189,Moment - M-1114-08149,INV,Dick Smith Hong Kong Limited,11/27/2014,11/27/2014,,11/27/2014,$209.97,$209.97,$0.00,,Unsent,Paid
+7191,Moment - M-1114-08150,INV,Charles Wynn,11/27/2014,11/27/2014,,11/27/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7190,Moment - M-1114-08151,INV,Jeffrey Wood,11/27/2014,11/27/2014,,11/27/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7192,Moment - M-1114-08152,INV,Ryan Torres,11/27/2014,11/27/2014,,11/27/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7200,Moment - M-1114-08153,INV,Simon Scheiber,11/27/2014,11/27/2014,,11/27/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7201,Moment - M-1114-08154,INV,hamda bin sana,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7207,Moment - M-1114-08155,INV,Sign Seekers,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7202,Moment - M-1114-08155,INV,Sign Seekers,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7208,Moment - M-1114-08156,INV,N/A,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7209,Moment - M-1114-08157,INV,Robert Ross,11/27/2014,11/27/2014,,11/27/2014,$79.98,$79.98,$0.00,,Unsent,Paid
+7210,Moment - M-1114-08158,INV,Craig Hall,11/27/2014,11/27/2014,,11/27/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7219,Moment - M-1114-08159,INV,erin holiday,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7220,Moment - M-1114-08160,INV,Gordon Khoo,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7221,Moment - M-1114-08161,INV,Andrew Melder,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7217,Moment - M-1114-08162,INV,Basicwild,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7193,Moment - M-1114-08163,INV,Vincent Hallberg,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7194,Moment - M-1114-08164,INV,Bruce Miller,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7195,Moment - M-1114-08165,INV,Michael McCartney,11/27/2014,11/27/2014,,11/27/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7196,Moment - M-1114-08166,INV,Marco Systems,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7197,Moment - M-1114-08167,INV,Kristi Vance,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7198,Moment - M-1114-08168,INV,Nate Stovall,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7203,Moment - M-1114-08169,INV,Michelle Trescott,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7204,Moment - M-1114-08170,INV,Gary Cvitanovich,11/27/2014,11/27/2014,,11/27/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7205,Moment - M-1114-08171,INV,Charles Tupper,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7206,Moment - M-1114-08172,INV,Jomayra Texeira,11/27/2014,11/27/2014,,11/27/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7211,Moment - M-1114-08173,INV,Craig Sanderson,11/27/2014,11/27/2014,,11/27/2014,$107.79,$107.79,$0.00,,Unsent,Paid
+7212,Moment - M-1114-08174,INV,Dennis Enguerra,11/27/2014,11/27/2014,,11/27/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7214,Moment - M-1114-08175,INV,Antonio Lee,11/27/2014,11/27/2014,,11/27/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7213,Moment - M-1114-08176,INV,Vigdis Scheie Hein,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7215,Moment - M-1114-08177,INV,Rmit university,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7216,Moment - M-1114-08178,INV,Stan Deeks,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7218,Moment - M-1114-08179,INV,Jeremy McGinty,11/27/2014,11/27/2014,,11/27/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7233,Moment - M-1114-08180,INV,lasse seppala,11/28/2014,11/28/2014,,11/28/2014,$82.48,$82.48,$0.00,,Unsent,Paid
+7229,Moment - M-1114-08181,INV,Sheila Flory,11/27/2014,11/27/2014,,11/27/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7222,Moment - M-1114-08182,INV,Rafael Ortiz Serrano,11/27/2014,11/27/2014,,11/27/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7223,Moment - M-1114-08183,INV,Evan Kok,11/27/2014,11/27/2014,,11/27/2014,$104.98,$104.98,$0.00,,Unsent,Paid
+7230,Moment - M-1114-08184,INV,Stefano Rubino,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7224,Moment - M-1114-08185,INV,Jinghui Liu,11/27/2014,11/27/2014,,11/27/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7225,Moment - M-1114-08186,INV,Ekrem Erhan GŸ�el,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7226,Moment - M-1114-08187,INV,Kathryn Grantier,11/27/2014,11/27/2014,,11/27/2014,$229.92,$229.92,$0.00,,Unsent,Paid
+7498,Moment - M-1114-08188,INV,ian Saville,11/30/2014,11/30/2014,,11/30/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7227,Moment - M-1114-08189,INV,Fairn Whatley,11/27/2014,11/27/2014,,11/27/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7228,Moment - M-1114-08190,INV,The George BCN SL,11/27/2014,11/27/2014,,11/27/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7231,Moment - M-1114-08191,INV,roy savoy,11/27/2014,11/27/2014,,11/27/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7234,Moment - M-1114-08192,INV,Mark Ddumba,11/28/2014,11/28/2014,,11/28/2014,$179.97,$179.97,$0.00,,Unsent,Paid
+7497,Moment - M-1114-08194,INV,Brandon Trahan,11/30/2014,11/30/2014,,11/30/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7496,Moment - M-1114-08195,INV,Diana Branaman,11/30/2014,11/30/2014,,11/30/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7232,Moment - M-1114-08196,INV,Taylor Yotz,11/27/2014,11/27/2014,,11/27/2014,$163.02,$163.02,$0.00,,Unsent,Paid
+7495,Moment - M-1114-08198,INV,Dustin Bresina,11/30/2014,11/30/2014,,11/30/2014,$109.39,$109.39,$0.00,,Unsent,Paid
+7494,Moment - M-1114-08199,INV,Edith Gonzalez,11/30/2014,11/30/2014,,11/30/2014,$104.98,$104.98,$0.00,,Unsent,Paid
+7493,Moment - M-1114-08202,INV,yuichiro kanematsu,11/30/2014,11/30/2014,,11/30/2014,$104.98,$104.98,$0.00,,Unsent,Paid
+7492,Moment - M-1114-08203,INV,Kentaro Shimizu,11/30/2014,11/30/2014,,11/30/2014,$74.96,$74.96,$0.00,,Unsent,Paid
+7554,Moment - M-1114-08204,INV,Sandra McDowell,11/30/2014,11/30/2014,,11/30/2014,$139.98,$139.98,$0.00,,Unsent,Paid
+7235,Moment - M-1114-08205,INV,STiNK BathBombs,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7236,Moment - M-1114-08206,INV,Andrew Phang,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7237,Moment - M-1114-08207,INV,Tim Tu,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7238,Moment - M-1114-08208,INV,Greene Light Productions,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7239,Moment - M-1114-08209,INV,c/o TQMISL,11/28/2014,11/28/2014,,11/28/2014,$52.43,$52.43,$0.00,,Unsent,Paid
+7240,Moment - M-1114-08210,INV,Angie Lugo,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7241,Moment - M-1114-08211,INV,Aaron Kok,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7242,Moment - M-1114-08212,INV,Jim bierncki,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7243,Moment - M-1114-08213,INV,Aaron Kok,11/28/2014,11/28/2014,,11/28/2014,$224.97,$224.97,$0.00,,Unsent,Paid
+7244,Moment - M-1114-08214,INV,Madhusudana Reddy Korsipati,11/28/2014,11/28/2014,,11/28/2014,$35.99,$35.99,$0.00,,Unsent,Paid
+7245,Moment - M-1114-08215,INV,Abdellah Oumoussi,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7246,Moment - M-1114-08216,INV,______ ________,11/28/2014,11/28/2014,,11/28/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7247,Moment - M-1114-08217,INV,Man Tat Yue,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7248,Moment - M-1114-08218,INV,Raja Noor Hazmar,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7249,Moment - M-1114-08219,INV,Anna Frey,11/28/2014,11/28/2014,,11/28/2014,$26.07,$26.07,$0.00,,Unsent,Paid
+7250,Moment - M-1114-08220,INV,Dale Sorensen,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7251,Moment - M-1114-08221,INV,Julian Chang,11/28/2014,11/28/2014,,11/28/2014,$104.98,$104.98,$0.00,,Unsent,Paid
+7252,Moment - M-1114-08222,INV,Deluxe Associates Limited,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7253,Moment - M-1114-08223,INV,Greg Naus,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7254,Moment - M-1114-08224,INV,POOLS Inc.,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7255,Moment - M-1114-08225,INV,Eugenio Frasca,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7256,Moment - M-1114-08226,INV,Mint and Mirth,11/28/2014,11/28/2014,,11/28/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7257,Moment - M-1114-08227,INV,Blair Southworth,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7258,Moment - M-1114-08228,INV,Wil Sterner,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7259,Moment - M-1114-08229,INV,Kam Bansal,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7260,Moment - M-1114-08230,INV,Jose Victor Corsiga,11/28/2014,11/28/2014,,11/28/2014,$47.48,$47.48,$0.00,,Unsent,Paid
+7261,Moment - M-1114-08231,INV,DiGi Telecommunications Sdn Bhd,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7262,Moment - M-1114-08232,INV,Thijs van der Wai,11/28/2014,11/28/2014,,11/28/2014,$134.97,$134.97,$0.00,,Unsent,Paid
+7265,Moment - M-1114-08233,INV,David Binko,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7263,Moment - M-1114-08234,INV,Robin Gruyters,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7264,Moment - M-1114-08235,INV,Max Ollerenshaw,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7266,Moment - M-1114-08236,INV,Dr Jan Peter Ehlers,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7267,Moment - M-1114-08237,INV,Robert Ross,11/28/2014,11/28/2014,,11/28/2014,$209.96,$209.96,$0.00,,Unsent,Paid
+7268,Moment - M-1114-08238,INV,Andrew Qua,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7269,Moment - M-1114-08239,INV,Otto Berg,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7270,Moment - M-1114-08240,INV,Punnathon Kijsanayothin,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7271,Moment - M-1114-08241,INV,Christopher K. Ashmun,11/28/2014,11/28/2014,,11/28/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7272,Moment - M-1114-08242,INV,Richard Escatell,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7273,Moment - M-1114-08243,INV,TIN NWE,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7274,Moment - M-1114-08244,INV,Amber MacDonald,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7275,Moment - M-1114-08245,INV,Scott Stephens,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7276,Moment - M-1114-08246,INV,timeless. (BTW BE 0846.092.101),11/28/2014,11/28/2014,,11/28/2014,$119.96,$119.96,$0.00,,Unsent,Paid
+7277,Moment - M-1114-08247,INV,Steven Andrich,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7278,Moment - M-1114-08248,INV,Ivan Telgaev,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7280,Moment - M-1114-08249,INV,Mike Flores,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7279,Moment - M-1114-08250,INV,Amanda Lum,11/28/2014,11/28/2014,,11/28/2014,$104.98,$104.98,$0.00,,Unsent,Paid
+7281,Moment - M-1114-08251,INV,lisa TRIBOLET,11/28/2014,11/28/2014,,11/28/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7282,Moment - M-1114-08252,INV,ICO Limited,11/28/2014,11/28/2014,,11/28/2014,$157.47,$157.47,$0.00,,Unsent,Paid
+7283,Moment - M-1114-08254,INV,Edward Cho,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7284,Moment - M-1114-08255,INV,Gideon Sng,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7285,Moment - M-1114-08256,INV,Susan Jane Golding,11/28/2014,11/28/2014,,11/28/2014,$279.96,$279.96,$0.00,,Unsent,Paid
+7286,Moment - M-1114-08257,INV,Jordan Ritter,11/28/2014,11/28/2014,,11/28/2014,$109.49,$109.49,$0.00,,Unsent,Paid
+7287,Moment - M-1114-08258,INV,Victor Castro,11/28/2014,11/28/2014,,11/28/2014,$139.98,$139.98,$0.00,,Unsent,Paid
+7288,Moment - M-1114-08259,INV,Johnny Eclavea,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7290,Moment - M-1114-08260,INV,Ryan Neel,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7289,Moment - M-1114-08261,INV,Mark Eclavea,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7291,Moment - M-1114-08262,INV,Young Yune,11/28/2014,11/28/2014,,11/28/2014,$26.47,$26.47,$0.00,,Unsent,Paid
+7292,Moment - M-1114-08263,INV,"Bravery, Inc.",11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7293,Moment - M-1114-08264,INV,Tom Moss,11/28/2014,11/28/2014,,11/28/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7294,Moment - M-1114-08265,INV,Catherine Mergele,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7295,Moment - M-1114-08266,INV,Marco Schšn,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7296,Moment - M-1114-08267,INV,Albert Buenrostro,11/28/2014,11/28/2014,,11/28/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7472,Moment - M-1114-08268,INV,Noura Alneyadi,11/30/2014,11/30/2014,,11/30/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7297,Moment - M-1114-08269,INV,ewp architects,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7299,Moment - M-1114-08271,INV,Simon Crosby,11/28/2014,11/28/2014,,11/28/2014,$26.04,$26.04,$0.00,,Unsent,Paid
+7300,Moment - M-1114-08272,INV,N/A,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7302,Moment - M-1114-08273,INV,INCITE,11/28/2014,11/28/2014,,11/28/2014,$82.11,$82.11,$0.00,,Unsent,Paid
+7301,Moment - M-1114-08274,INV,Alok Gahrotra,11/28/2014,11/28/2014,,11/28/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7303,Moment - M-1114-08275,INV,Automated Currency Instruments,11/28/2014,11/28/2014,,11/28/2014,$139.95,$139.95,$0.00,,Unsent,Paid
+7304,Moment - M-1114-08276,INV,Tracey Welson,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7305,Moment - M-1114-08277,INV,Steve Fergusson,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7306,Moment - M-1114-08278,INV,Ahmad Albahar,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7307,Moment - M-1114-08280,INV,Jen Cannata,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7308,Moment - M-1114-08281,INV,Lucy Brown Design,11/28/2014,11/28/2014,,11/28/2014,$228.24,$228.24,$0.00,,Unsent,Paid
+7309,Moment - M-1114-08282,INV,Preben Arentoft,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7310,Moment - M-1114-08283,INV,Hayley Anslow,11/28/2014,11/28/2014,,11/28/2014,$109.98,$109.98,$0.00,,Unsent,Paid
+7311,Moment - M-1114-08284,INV,Kerry Kellogg,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7312,Moment - M-1114-08285,INV,Markku Anttila,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7313,Moment - M-1114-08286,INV,Jennifer Beltrami,11/28/2014,11/28/2014,,11/28/2014,$109.39,$109.39,$0.00,,Unsent,Paid
+7314,Moment - M-1114-08288,INV,Robbys Lady Photography,11/28/2014,11/28/2014,,11/28/2014,$109.39,$109.39,$0.00,,Unsent,Paid
+7315,Moment - M-1114-08289,INV,William Griffin,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7316,Moment - M-1114-08290,INV,Kelly McCormick,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7317,Moment - M-1114-08291,INV,Christopher Mudiappahpillai,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7318,Moment - M-1114-08292,INV,The Scott Zagarino Agency,11/28/2014,11/28/2014,,11/28/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7319,Moment - M-1114-08293,INV,Holly Johnson,11/28/2014,11/28/2014,,11/28/2014,$153.28,$153.28,$0.00,,Unsent,Paid
+7320,Moment - M-1114-08294,INV,Ammar Al Attar,11/28/2014,11/28/2014,,11/28/2014,$209.97,$209.97,$0.00,,Unsent,Paid
+7321,Moment - M-1114-08295,INV,william dixon,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7322,Moment - M-1114-08296,INV,Joshua Russell,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7323,Moment - M-1114-08298,INV,Laverne Wolfe,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7325,Moment - M-1114-08299,INV,PowerofT,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7324,Moment - M-1114-08300,INV,Kathryn Wheeler,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7326,Moment - M-1114-08301,INV,Sweeny Youmaran,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7327,Moment - M-1114-08302,INV,rachel davidson,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7328,Moment - M-1114-08303,INV,roberta smith,11/28/2014,11/28/2014,,11/28/2014,$79.98,$79.98,$0.00,,Unsent,Paid
+7329,Moment - M-1114-08304,INV,Brian Tomlinson,11/28/2014,11/28/2014,,11/28/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7330,Moment - M-1114-08305,INV,P.I.G.,11/28/2014,11/28/2014,,11/28/2014,$82.45,$82.45,$0.00,,Unsent,Paid
+7331,Moment - M-1114-08306,INV,Erika Melgar,11/28/2014,11/28/2014,,11/28/2014,$104.98,$104.98,$0.00,,Unsent,Paid
+7332,Moment - M-1114-08307,INV,P.I.G.,11/28/2014,11/28/2014,,11/28/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7333,Moment - M-1114-08308,INV,James Gulick,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7334,Moment - M-1114-08309,INV,Michael Tarng,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7335,Moment - M-1114-08310,INV,Rahi Karnik,11/28/2014,11/28/2014,,11/28/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7336,Moment - M-1114-08311,INV,Santi Mestre Fos,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7337,Moment - M-1114-08312,INV,Stig Martin FiskŒ,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7338,Moment - M-1114-08313,INV,Rachel Powers,11/28/2014,11/28/2014,,11/28/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7339,Moment - M-1114-08314,INV,Frances Kinney,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7340,Moment - M-1114-08315,INV,April Culver,11/28/2014,11/28/2014,,11/28/2014,$13.99,$13.99,$0.00,,Unsent,Paid
+7341,Moment - M-1114-08316,INV,Janet Nolan,11/28/2014,11/28/2014,,11/28/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7342,Moment - M-1114-08317,INV,LAURA MONROE,11/29/2014,11/29/2014,,11/29/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7343,Moment - M-1114-08318,INV,Bill Davis,11/29/2014,11/29/2014,,11/29/2014,$99.99,$99.99,$0.00,,Unsent,Paid
+7344,Moment - M-1114-08319,INV,Donald Graham,11/29/2014,11/29/2014,,11/29/2014,$199.98,$199.98,$0.00,,Unsent,Paid
+7345,Moment - M-1114-08320,INV,Jake Fuller,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7346,Moment - M-1114-08321,INV,Leah Flores,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7347,Moment - M-1114-08322,INV,Donna Mikusevich,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7348,Moment - M-1114-08323,INV,Stan Deeks,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7349,Moment - M-1114-08324,INV,Bodie Van Den Berg,11/29/2014,11/29/2014,,11/29/2014,$104.98,$104.98,$0.00,,Unsent,Paid
+7350,Moment - M-1114-08325,INV,Linda Smith,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7351,Moment - M-1114-08326,INV,Eric Wu,11/29/2014,11/29/2014,,11/29/2014,$12.49,$12.49,$0.00,,Unsent,Paid
+7353,Moment - M-1114-08327,INV,Rob Lake,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7352,Moment - M-1114-08328,INV,Blackcoffee,11/29/2014,11/29/2014,,11/29/2014,$237.96,$237.96,$0.00,,Unsent,Paid
+7356,Moment - M-1114-08329,INV,Nicholas Ho,11/29/2014,11/29/2014,,11/29/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7367,Moment - M-1114-08330,INV,Aaron Taylor,11/29/2014,11/29/2014,,11/29/2014,$93.48,$93.48,$0.00,,Unsent,Paid
+7354,Moment - M-1114-08331,INV,Mellony Watson,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7355,Moment - M-1114-08332,INV,grant levkoff,11/29/2014,11/29/2014,,11/29/2014,$209.96,$209.96,$0.00,,Unsent,Paid
+7357,Moment - M-1114-08333,INV,Felipe Latorre,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7358,Moment - M-1114-08334,INV,Ashley Watson,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7359,Moment - M-1114-08335,INV,olyvia thompson,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7360,Moment - M-1114-08336,INV,Laura Sparks,11/29/2014,11/29/2014,,11/29/2014,$118.98,$118.98,$0.00,,Unsent,Paid
+7361,Moment - M-1114-08337,INV,Daniel Duarte,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7362,Moment - M-1114-08338,INV,joon lee,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7363,Moment - M-1114-08339,INV,Mihir Patel,11/29/2014,11/29/2014,,11/29/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7364,Moment - M-1114-08340,INV,Lorin Wood,11/29/2014,11/29/2014,,11/29/2014,$29.47,$29.47,$0.00,,Unsent,Paid
+7365,Moment - M-1114-08341,INV,Kimberly Khoo,11/29/2014,11/29/2014,,11/29/2014,$93.48,$93.48,$0.00,,Unsent,Paid
+7366,Moment - M-1114-08342,INV,Josh Greenspan,11/29/2014,11/29/2014,,11/29/2014,$12.49,$12.49,$0.00,,Unsent,Paid
+7368,Moment - M-1114-08343,INV,Aaron Cohen,11/29/2014,11/29/2014,,11/29/2014,$178.47,$178.47,$0.00,,Unsent,Paid
+7369,Moment - M-1114-08344,INV,Josh Greenspan,11/29/2014,11/29/2014,,11/29/2014,$20.98,$20.98,$0.00,,Unsent,Paid
+7370,Moment - M-1114-08345,INV,Prashant Karki,11/29/2014,11/29/2014,,11/29/2014,$224.97,$224.97,$0.00,,Unsent,Paid
+7371,Moment - M-1114-08346,INV,Raymona Chin,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7372,Moment - M-1114-08347,INV,roy savoy,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7373,Moment - M-1114-08348,INV,Ben Flack,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7374,Moment - M-1114-08349,INV,Jason Stansell,11/29/2014,11/29/2014,,11/29/2014,$13.68,$13.68,$0.00,,Unsent,Paid
+7375,Moment - M-1114-08350,INV,roy savoy,11/29/2014,11/29/2014,,11/29/2014,$59.98,$59.98,$0.00,,Unsent,Paid
+7376,Moment - M-1114-08351,INV,Carlos Barron,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7377,Moment - M-1114-08352,INV,Carlos Barron,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7378,Moment - M-1114-08353,INV,Gregory Kephart,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7379,Moment - M-1114-08355,INV,Hilary Street,11/29/2014,11/29/2014,,11/29/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7380,Moment - M-1114-08356,INV,Max Harden,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7381,Moment - M-1114-08357,INV,Jane Taylor,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7382,Moment - M-1114-08358,INV,John Reyes,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7383,Moment - M-1114-08359,INV,David bodenham,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7384,Moment - M-1114-08360,INV,Matsui Rittenberry,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7385,Moment - M-1114-08361,INV,Chad Wagaman,11/29/2014,11/29/2014,,11/29/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7386,Moment - M-1114-08362,INV,Paolo David,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7387,Moment - M-1114-08363,INV,Andrew Trujillo,11/29/2014,11/29/2014,,11/29/2014,$178.47,$178.47,$0.00,,Unsent,Paid
+7388,Moment - M-1114-08364,INV,jee chaiyu,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7389,Moment - M-1114-08365,INV,Hugo Baeta,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7390,Moment - M-1114-08366,INV,KALEB COLEMAN,11/29/2014,11/29/2014,,11/29/2014,$164.22,$164.22,$0.00,,Unsent,Paid
+7391,Moment - M-1114-08367,INV,NO MING WAI,11/29/2014,11/29/2014,,11/29/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7392,Moment - M-1114-08368,INV,Terence Tsai,11/29/2014,11/29/2014,,11/29/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7393,Moment - M-1114-08369,INV,Tom Van Aelst,11/29/2014,11/29/2014,,11/29/2014,$59.98,$59.98,$0.00,,Unsent,Paid
+7394,Moment - M-1114-08370,INV,Stuart Neish,11/29/2014,11/29/2014,,11/29/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7395,Moment - M-1114-08371,INV,Hoi Chuan Lim,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7396,Moment - M-1114-08372,INV,Oleg Tsaplin,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7397,Moment - M-1114-08373,INV,Samuel Chew,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7398,Moment - M-1114-08374,INV,Theodore Borromeoo,11/29/2014,11/29/2014,,11/29/2014,$149.98,$149.98,$0.00,,Unsent,Paid
+7399,Moment - M-1114-08375,INV,Lawrence Yang,11/29/2014,11/29/2014,,11/29/2014,$47.48,$47.48,$0.00,,Unsent,Paid
+7400,Moment - M-1114-08376,INV,Suren Yogalingam,11/29/2014,11/29/2014,,11/29/2014,$127.47,$127.47,$0.00,,Unsent,Paid
+7401,Moment - M-1114-08377,INV,Pamela Sweda,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7402,Moment - M-1114-08378,INV,Sean McEmerson,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7403,Moment - M-1114-08379,INV,Tanja Abicic,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7404,Moment - M-1114-08380,INV,Jennifer Beltrami,11/29/2014,11/29/2014,,11/29/2014,$164.08,$164.08,$0.00,,Unsent,Paid
+7405,Moment - M-1114-08381,INV,William Cody,11/29/2014,11/29/2014,,11/29/2014,$93.48,$93.48,$0.00,,Unsent,Paid
+7406,Moment - M-1114-08382,INV,Marc Harris,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7407,Moment - M-1114-08383,INV,Raven Media,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7408,Moment - M-1114-08384,INV,Rhonda Compton,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7409,Moment - M-1114-08385,INV,Lori Solon,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7410,Moment - M-1114-08386,INV,Joseph Mathews,11/29/2014,11/29/2014,,11/29/2014,$20.98,$20.98,$0.00,,Unsent,Paid
+7411,Moment - M-1114-08387,INV,Heather Knight,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7412,Moment - M-1114-08388,INV,"Apple, Inc.",11/29/2014,11/29/2014,,11/29/2014,$339.96,$339.96,$0.00,,Unsent,Paid
+7413,Moment - M-1114-08389,INV,Jiangang Wen,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7414,Moment - M-1114-08390,INV,WILLIAM HON,11/29/2014,11/29/2014,,11/29/2014,$118.98,$118.98,$0.00,,Unsent,Paid
+7415,Moment - M-1114-08391,INV,Ryan Pope,11/29/2014,11/29/2014,,11/29/2014,$93.48,$93.48,$0.00,,Unsent,Paid
+7416,Moment - M-1114-08392,INV,Chris Hale,11/29/2014,11/29/2014,,11/29/2014,$35.99,$35.99,$0.00,,Unsent,Paid
+7418,Moment - M-1114-08393,INV,Pierre Bloedorn,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7417,Moment - M-1114-08394,INV,Lizbeth Santos,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7419,Moment - M-1114-08395,INV,Sudha Varanasi,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7420,Moment - M-1114-08396,INV,SAAU,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7421,Moment - M-1114-08397,INV,Celeste Lesage,11/29/2014,11/29/2014,,11/29/2014,$118.98,$118.98,$0.00,,Unsent,Paid
+7422,Moment - M-1114-08398,INV,Denise Bartholomew,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7423,Moment - M-1114-08399,INV,Khiem Nguyen,11/29/2014,11/29/2014,,11/29/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7424,Moment - M-1114-08400,INV,Penelope Shelly,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7425,Moment - M-1114-08401,INV,Carole Guevin,11/29/2014,11/29/2014,,11/29/2014,$82.48,$82.48,$0.00,,Unsent,Paid
+7426,Moment - M-1114-08402,INV,Gavin Richards,11/29/2014,11/29/2014,,11/29/2014,$118.98,$118.98,$0.00,,Unsent,Paid
+7427,Moment - M-1114-08403,INV,Amy Shropshire,11/29/2014,11/29/2014,,11/29/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7428,Moment - M-1114-08404,INV,Bruce Devereux,11/29/2014,11/29/2014,,11/29/2014,$59.98,$59.98,$0.00,,Unsent,Paid
+7429,Moment - M-1114-08405,INV,Patrick Whitaker,11/29/2014,11/29/2014,,11/29/2014,$365.43,$365.43,$0.00,,Unsent,Paid
+7430,Moment - M-1114-08406,INV,Nonfiction Unlimited,11/29/2014,11/29/2014,,11/29/2014,$254.94,$254.94,$0.00,,Unsent,Paid
+7431,Moment - M-1114-08407,INV,Russell Kanjorski,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7432,Moment - M-1114-08408,INV,Sign Seekers,11/29/2014,11/29/2014,,11/29/2014,$18.98,$18.98,$0.00,,Unsent,Paid
+7433,Moment - M-1114-08409,INV,Ran Cao,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7434,Moment - M-1114-08410,INV,aman mayson,11/29/2014,11/29/2014,,11/29/2014,$12.49,$12.49,$0.00,,Unsent,Paid
+7435,Moment - M-1114-08411,INV,Kim Bajorek,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7436,Moment - M-1114-08412,INV,McFarland Carla,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7437,Moment - M-1114-08413,INV,Anthony Roque Barron,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7438,Moment - M-1114-08414,INV,Maurice Draggon,11/29/2014,11/29/2014,,11/29/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7439,Moment - M-1114-08415,INV,Rafael Deayala,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7440,Moment - M-1114-08416,INV,Eric de Lemos,11/29/2014,11/29/2014,,11/29/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7441,Moment - M-1114-08417,INV,Chris Scarborough,11/29/2014,11/29/2014,,11/29/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7442,Moment - M-1114-08418,INV,Kyle Kesterson,11/30/2014,11/30/2014,,11/30/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7443,Moment - M-1114-08419,INV,David Goudge,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7444,Moment - M-1114-08420,INV,Peter Kang,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7445,Moment - M-1114-08421,INV,Amy Stricklin,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7446,Moment - M-1114-08422,INV,Alejandro Schott,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7447,Moment - M-1114-08423,INV,Raymond Toh,11/30/2014,11/30/2014,,11/30/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7448,Moment - M-1114-08424,INV,Jenylee Navarro,11/30/2014,11/30/2014,,11/30/2014,$118.98,$118.98,$0.00,,Unsent,Paid
+7449,Moment - M-1114-08425,INV,Tahima Begum,11/30/2014,11/30/2014,,11/30/2014,$203.97,$203.97,$0.00,,Unsent,Paid
+7450,Moment - M-1114-08426,INV,Katie Mobley,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7451,Moment - M-1114-08427,INV,David Giacomelli,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7452,Moment - M-1114-08428,INV,Shari Nightingale,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7453,Moment - M-1114-08429,INV,Dianna He,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7454,Moment - M-1114-08430,INV,Shutterstock Images,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7455,Moment - M-1114-08431,INV,Benton Melbourne,11/30/2014,11/30/2014,,11/30/2014,$92.30,$92.30,$0.00,,Unsent,Paid
+7456,Moment - M-1114-08432,INV,James Swierczewski,11/30/2014,11/30/2014,,11/30/2014,$118.98,$118.98,$0.00,,Unsent,Paid
+7457,Moment - M-1114-08433,INV,Angelo Linary,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7458,Moment - M-1114-08434,INV,Louisa Wells,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7459,Moment - M-1114-08435,INV,Sat Sang Khalsa,11/30/2014,11/30/2014,,11/30/2014,$93.48,$93.48,$0.00,,Unsent,Paid
+7460,Moment - M-1114-08436,INV,Joshua Muscat,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7461,Moment - M-1114-08437,INV,Delgadocreative,11/30/2014,11/30/2014,,11/30/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7462,Moment - M-1114-08438,INV,britnee schnepf,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7463,Moment - M-1114-08439,INV,HEALTHCARE INSPIRATIONS,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7464,Moment - M-1114-08440,INV,Blair Kim,11/30/2014,11/30/2014,,11/30/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7465,Moment - M-1114-08442,INV,Bryan Rowland,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7466,Moment - M-1114-08443,INV,Thom Cheney,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7467,Moment - M-1114-08444,INV,Impact Plus,11/30/2014,11/30/2014,,11/30/2014,$186.12,$186.12,$0.00,,Unsent,Paid
+7468,Moment - M-1114-08445,INV,Andrew Tang,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7469,Moment - M-1114-08446,INV,SiXu Phua,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7470,Moment - M-1114-08447,INV,Martin Davis,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7471,Moment - M-1114-08448,INV,Joe Shapiro,11/30/2014,11/30/2014,,11/30/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7473,Moment - M-1114-08449,INV,Julina Rashid,11/30/2014,11/30/2014,,11/30/2014,$11.49,$11.49,$0.00,,Unsent,Paid
+7474,Moment - M-1114-08450,INV,Hana Peskova,11/30/2014,11/30/2014,,11/30/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7475,Moment - M-1114-08451,INV,HuiQing Lim,11/30/2014,11/30/2014,,11/30/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7476,Moment - M-1114-08452,INV,Rumah Makan Asima,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7477,Moment - M-1114-08453,INV,Victoria Revello,11/30/2014,11/30/2014,,11/30/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7478,Moment - M-1114-08454,INV,The CafŽ SucrŽ Farine,11/30/2014,11/30/2014,,11/30/2014,$203.97,$203.97,$0.00,,Unsent,Paid
+7479,Moment - M-1114-08455,INV,Amir Hadi Azmi,11/30/2014,11/30/2014,,11/30/2014,$74.99,$74.99,$0.00,,Unsent,Paid
+7480,Moment - M-1114-08456,INV,Barry Bernstein,11/30/2014,11/30/2014,,11/30/2014,$237.96,$237.96,$0.00,,Unsent,Paid
+7481,Moment - M-1114-08457,INV,JOHN VIDAL,11/30/2014,11/30/2014,,11/30/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7482,Moment - M-1114-08458,INV,Jeffrey Adams,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7483,Moment - M-1114-08459,INV,Lauren Gioia,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7484,Moment - M-1114-08460,INV,Drew Reedy,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7485,Moment - M-1114-08461,INV,Manuel Garcia,11/30/2014,11/30/2014,,11/30/2014,$93.48,$93.48,$0.00,,Unsent,Paid
+7486,Moment - M-1114-08462,INV,Alexia Kowalski,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7487,Moment - M-1114-08463,INV,BING WANG,11/30/2014,11/30/2014,,11/30/2014,$254.94,$254.94,$0.00,,Unsent,Paid
+7488,Moment - M-1114-08464,INV,Yuya Toide,11/30/2014,11/30/2014,,11/30/2014,$127.47,$127.47,$0.00,,Unsent,Paid
+7489,Moment - M-1114-08465,INV,Chris Corrigan,11/30/2014,11/30/2014,,11/30/2014,$169.98,$169.98,$0.00,,Unsent,Paid
+7490,Moment - M-1114-08466,INV,Susan Tunstell,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7491,Moment - M-1114-08467,INV,Walaau Media,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7555,Moment - M-1114-08468,INV,Jeb Rucks,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7556,Moment - M-1114-08469,INV,Conor Keenan,11/30/2014,11/30/2014,,11/30/2014,$232.46,$232.46,$0.00,,Unsent,Paid
+7557,Moment - M-1114-08470,INV,jason nicholson,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7558,Moment - M-1114-08471,INV,LAURIE CHEN,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+7559,Moment - M-1114-08472,INV,Brent Hargrave,11/30/2014,11/30/2014,,11/30/2014,$84.99,$84.99,$0.00,,Unsent,Paid
+Report Total,,,,,,,,"$94,853.05","$94,853.05",$0.00,,,

@@ -4,7 +4,7 @@ import re
 import pprint
 import os.path
 
-source_name = "woo-cancel-test.csv"
+source_name = "woo-cancel-1-15.csv"
 source_file = csv.DictReader(open(os.path.dirname(__file__) + "/../csv-input/" + source_name))
 source_order_numbers = []
 source_dupes = []
@@ -67,9 +67,10 @@ def find_source_order_in_comparator():
   return
 
 def write_to_csv():
+  global source_name
   if len(exists_in_source_and_in_comparator) > 0:
     keys = exists_in_source_and_in_comparator[0].keys()
-    with open(os.path.dirname(__file__) + '/../csv-output/included.csv', 'wb') as output_file:
+    with open(os.path.dirname(__file__) + '/../csv-output/included-' + source_name, 'wb') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(exists_in_source_and_in_comparator)
